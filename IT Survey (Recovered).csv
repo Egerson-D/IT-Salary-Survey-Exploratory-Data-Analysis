@@ -1,0 +1,1250 @@
+Age,Gender,City,Position ,Total_Y,Level,Num_Skill,Main_Tech,Current_Salary,Prev_Salary,Status,MaxComp_size,Company_type
+37,Male,Aachen,Data Scientist,15,Senior,1,Python,70000,0,Full-time,1000,Production
+24,Male,Aachen,Admin,3,Junior,1,Python,10164,0,Part-time ,1000+,Research Institute
+26,Male,Amsterdam,Data Scientist,2,Junior,1,Python,48000,43000,Full-time,100,Fintech
+28,Female,Amsterdam,Admin,10,Senior,1,Business Intelligence,86000,75000,Full-time,1000+,Production
+33,Male,Amsterdam,Software Engineer,8,Senior,1,C#,75000,56000,Full-time,1000+,Production
+32,Male,Amsterdam,Software Engineer,15,Senior,1,Golang,90000,90000,Full-time,1000+,Production
+32,Male,Amsterdam,Software Engineer,13,Senior,1,Kotlin,85000,80000,Full-time,1000+,Fintech
+27,Male,Amsterdam,Data Scientist,4,Middle,1,Python,62000,40000,Full-time,1000+,Production
+25,Female,Amsterdam,Data Scientist,1,Middle,1,Python,49850,36000,Full-time,1000+,Startup
+31,Male,Amsterdam,Data Scientist,10,Team Lead,1,Python,100000,0,Full-time,1000+,Production
+36,Male,Amsterdam,Software Engineer,14,Senior,1,Swift,75000,75000,Full-time,1000+,Services
+30,Male,Ansbach,Software Engineer,4,Junior,1,PHP,42000,36000,Full-time,1000,Production
+47,Male,Balingen,Software Engineer,25,Senior,1,Java,70000,0,Full-time,1000+,Services
+29,Male,Barcelona,Data Scientist,1,Junior,1,Python,22000,11000,Full-time,100,Production
+30,Male,Barcelona,Data Scientist,5,Senior,1,R,40000,40000,Full-time,1000+,Services
+29,Male,Basel,Data Scientist,5,Team Lead,1,Python,115000,0,Full-time,1000+,Services
+38,Male,Berlin,Data Scientist,20,Senior,1,C,200000,80000,Self-employed,10,Services
+36,Male,Berlin,Admin,4,Middle,1,C++,40000,37000,Full-time,10,Research Institute
+36,Male,Berlin,Software Engineer,7,Middle,4,C++,42000,42000,Full-time,10,Production
+35,Male,Berlin,Software Engineer,1,Junior,1,Function Block Diagram,30000,0,Full-time,10,Production
+24,Male,Berlin,Software Engineer,2,Junior,1,Java,60000,60000,Full-time,10,Services
+25,Male,Berlin,Software Engineer,5,Senior,1,Java,60000,0,Self-employed,10,Startup
+32,Male,Berlin,UI/UX Designer,5,Senior,1,Java,70000,65000,Self-employed,10,Startup
+36,Male,Berlin,Software Engineer,12,Senior,1,JavaScript,72000,72000,Full-time,10,Startup
+34,Male,Berlin,Software Engineer,7,Senior,1,JavaScript,65000,0,Full-time,10,Startup
+38,Male,Berlin,Software Engineer,11,Senior,1,JavaScript,35000,0,Founder,10,Startup
+41,Male,Berlin,Software Engineer,18,Senior,1,JavaScript,120000,92000,Self-employed,10,Startup
+25,Male,Berlin,Software Engineer,5,Senior,1,Node JS,57000,0,Full-time,10,Services
+35,Male,Berlin,Software Engineer,13,Senior,1,Node JS,90000,82000,Full-time,10,Startup
+37,Female,Berlin,UI/UX Designer,2,Middle,1,Others,70000,0,Full-time,10,Startup
+35,Male,Berlin,Software Engineer,10,Senior,1,PHP,78000,78000,Full-time,10,Production
+34,Female,Berlin,UI/UX Designer,10,Senior,1,PowerShell,45000,45000,Full-time,10,Production
+28,Male,Berlin,Data Scientist,1,Junior,1,Python,43000,42000,Full-time,10,Startup
+39,Female,Berlin,Data Scientist,3,Junior,1,Python,60000,60000,Full-time,10,E-commerce
+29,Male,Berlin,Data Scientist,6,Middle,1,Python,57000,0,Full-time,10,Startup
+28,Male,Berlin,Data Scientist,5,Middle,2,Python,54000,52000,Full-time,10,Startup
+24,Male,Berlin,Software Engineer,1,Junior,1,Python,14400,0,Working Student,10,Startup
+29,Female,Berlin,Data Scientist,2,Junior,1,R,52000,0,Full-time,10,Services
+30,Male,Berlin,Software Engineer,8,Senior,1,Swift,60000,0,Self-employed,10,Services
+26,Female,Berlin,Software Engineer,7,Senior,1,Others,60000,0,Full-time,10,Production
+29,Male,Berlin,Software Engineer,11,Team Lead,1,TypeScript,140000,140000,Self-employed,10,Startup
+24,Male,Berlin,Data Scientist,3,Junior,1,Python,90000,0,Self-employed,10,Startup
+34,Male,Berlin,Software Engineer,10,Senior,2,Android,70000,0,Full-time,100,Production
+27,Male,Berlin,Software Engineer,8,Middle,1,Angular,45000,0,Full-time,100,Production
+30,Male,Berlin,Software Engineer,11,Senior,2,C,70000,0,Full-time,100,Startup
+40,Female,Berlin,Software Engineer,8,Senior,1,C#,57000,54000,Full-time,100,Production
+34,Male,Berlin,Software Engineer,13,Team Lead,1,C#,65000,65000,Full-time,100,Production
+25,Male,Berlin,Software Engineer,8,Senior,1,Clojure,85000,0,Full-time,100,Startup
+34,Male,Berlin,Software Engineer,15,Senior,1,Elixir,70000,65000,Full-time,100,Production
+35,Male,Berlin,Software Engineer,15,Senior,1,Golang,70000,0,Full-time,100,Startup
+38,Male,Berlin,Software Engineer,10,Senior,2,Golang,70000,65000,Full-time,100,Startup
+32,Male,Berlin,Software Engineer,12,Senior,1,iOS,66800,65000,Full-time,100,Production
+42,Female,Berlin,Data Scientist,5,Middle,1,Java,46000,46000,Full-time,100,Production
+37,Male,Berlin,Software Engineer,8,Junior,1,Java,60000,0,Full-time,100,Production
+36,Female,Berlin,Software Engineer,1,Middle,1,Java,60000,58000,Full-time,100,Services
+27,Male,Berlin,Software Engineer,3,Middle,1,Java,57000,0,Full-time,100,Production
+30,Male,Berlin,Software Engineer,9,Senior,1,Java,85000,80000,Full-time,100,Startup
+39,Male,Berlin,Software Engineer,8,Senior,1,Java,80000,80000,Full-time,100,Startup
+35,Male,Berlin,Software Engineer,6,Senior,3,Java,74000,0,Full-time,100,Production
+29,Male,Berlin,Software Engineer,9,Senior,1,Java,75000,75000,Full-time,100,Startup
+30,Female,Berlin,Software Engineer,7,Senior,1,Java,60000,55000,Full-time,100,Production
+31,Male,Berlin,Software Engineer,9,Senior,1,Java,70000,70000,Full-time,100,Production
+39,Male,Berlin,Software Engineer,15,Team Lead,1,Java,75000,65000,Full-time,100,Startup
+28,Male,Berlin,Software Engineer,4,Junior,1,JavaScript,54000,0,Full-time,100,Startup
+40,Female,Berlin,Software Engineer,1,Junior,1,JavaScript,50000,40000,Full-time,100,Startup
+38,Male,Berlin,Software Engineer,1,Junior,2,JavaScript,45500,40000,Full-time,100,Startup
+32,Male,Berlin,Software Engineer,10,Middle,1,JavaScript,65000,65000,Full-time,100,Startup
+29,Male,Berlin,Software Engineer,3,Middle,1,JavaScript,48000,0,Full-time,100,Services
+31,Male,Berlin,Software Engineer,10,Senior,1,JavaScript,71060,67500,Full-time,100,Startup
+46,Male,Berlin,Software Engineer,14,Senior,1,JavaScript,80000,63000,Full-time,100,Production
+46,Male,Berlin,Software Engineer,14,Senior,1,JavaScript,80000,63000,Full-time,100,Production
+30,Male,Berlin,Software Engineer,8,Senior,1,JavaScript,60000,60000,Full-time,100,Production
+40,Male,Berlin,Software Engineer,10,Senior,1,JavaScript,100000,0,Full-time,100,Production
+27,Female,Berlin,Software Engineer,5,Middle,1,Kotlin,65000,52000,Full-time,100,Production
+31,Male,Berlin,Software Engineer,9,Senior,2,Node JS,65000,65000,Full-time,100,Startup
+28,Male,Berlin,Admin,3,Middle,1,Others,51000,0,Full-time,100,Production
+41,Male,Berlin,Admin,18,Senior,1,Others,78000,100000,Full-time,100,Startup
+32,Female,Berlin,Admin,10,Senior,1,Others,60000,54000,Full-time,100,Services
+31,Male,Berlin,Admin,5,Team Lead,1,Others,76000,760000,Full-time,100,Startup
+35,Male,Berlin,Admin,12,Team Lead,1,Others,85000,85000,Full-time,100,Startup
+29,Female,Berlin,Data Scientist,8,Senior,1,Others,60000,52000,Full-time,100,Startup
+38,Male,Berlin,Software Engineer,18,Senior,1,Others,90000,90000,Full-time,100,Production
+43,Male,Berlin,Software Engineer,21,Team Lead,1,Others,83000,75000,Full-time,100,Startup
+35,Male,Berlin,UI/UX Designer,10,Senior,1,Others,70000,65000,Full-time,100,Production
+65,Male,Berlin,Software Engineer,25,Senior,4,Pascal,55000,50000,Full-time,100,Production
+24,Male,Berlin,Software Engineer,4,Middle,1,PHP,46000,42000,Full-time,100,Startup
+33,Male,Berlin,Software Engineer,14,Senior,1,PHP,68000,68000,Full-time,100,Production
+41,Male,Berlin,Software Engineer,18,Team Lead,1,PHP,100000,80000,Full-time,100,Production
+33,Male,Berlin,Admin,3,Senior,1,Python,100000,65000,Full-time,100,Production
+27,Male,Berlin,Data Scientist,4,Junior,1,Python,60000,0,Full-time,100,Services
+44,Female,Berlin,Data Scientist,13,Junior,1,Python,45000,0,Full-time,100,Services
+33,Male,Berlin,Data Scientist,10,Middle,1,Python,62000,60000,Full-time,100,Startup
+27,Female,Berlin,Data Scientist,3,Middle,1,Python,58000,55000,Full-time,100,Production
+27,Male,Berlin,Data Scientist,5,Middle,1,Python,55000,0,Full-time,100,Production
+30,Male,Berlin,Data Scientist,6,Middle,1,Python,59000,54000,Full-time,100,Startup
+30,Male,Berlin,Data Scientist,4,Middle,1,Python,60000,60000,Full-time,100,Startup
+29,Female,Berlin,Data Scientist,7,Middle,1,Python,45000,0,Full-time,100,Startup
+30,Female,Berlin,Data Scientist,4,Middle,1,Python,52000,0,Full-time,100,Startup
+36,Female,Berlin,Data Scientist,5,Senior,1,Python,75000,75000,Part-time ,100,Startup
+32,Male,Berlin,Data Scientist,9,Senior,1,Python,90000,85000,Full-time,100,Startup
+30,Male,Berlin,Data Scientist,8,Senior,1,Python,68000,66000,Full-time,100,Startup
+28,Male,Berlin,Data Scientist,6,Team Lead,2,Python,78000,78000,Full-time,100,Services
+29,Male,Berlin,Software Engineer,11,Senior,1,Python,85000,85000,Full-time,100,Production
+40,Male,Berlin,Software Engineer,13,Senior,1,Python,72000,72000,Full-time,100,Startup
+33,Male,Berlin,Software Engineer,13,Senior,1,Python,83000,73000,Full-time,100,Startup
+29,Male,Berlin,Software Engineer,3,Middle,1,React,43000,43000,Full-time,100,Production
+33,Male,Berlin,Software Engineer,7,Middle,1,Ruby,54000,0,Full-time,100,Startup
+42,Male,Berlin,Software Engineer,20,Senior,1,Ruby,80000,72000,Full-time,100,Production
+32,Male,Berlin,Software Engineer,4,Senior,1,Ruby,65000,0,Full-time,100,Production
+32,Male,Berlin,Software Engineer,10,Team Lead,1,Ruby,80000,68500,Full-time,100,Production
+28,Male,Berlin,Software Engineer,8,Team Lead,1,Ruby,67000,62000,Full-time,100,Startup
+33,Female,Berlin,UI/UX Designer,6,Middle,2,Sketch Figma,42000,0,Full-time,100,Production
+26,Male,Berlin,Data Scientist,4,Middle,2,Swift,55500,0,Full-time,100,Startup
+32,Male,Berlin,Data Scientist,7,Senior,1,Swift,65000,62000,Full-time,100,Startup
+23,Male,Berlin,Software Engineer,3,Team Lead,1,Swift,65000,0,Full-time,100,Startup
+30,Male,Berlin,Software Engineer,8,Senior,1,Others,73000,0,Full-time,100,Startup
+26,Male,Berlin,Software Engineer,2,Middle,1,Yaml,65000,40000,Full-time,100,Startup
+26,Female,Berlin,Software Engineer,6,Senior,1,.NET,65000,56000,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,15,Senior,1,Android,84700,83000,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,11,Team Lead,1,Android,80000,80000,Full-time,1000,Production
+27,Male,Berlin,Software Engineer,4,Middle,1,AWS,66000,61200,Full-time,1000,Services
+40,Male,Berlin,Data Scientist,14,Middle,3,Business Intelligence,57000,0,Full-time,1000,Production
+27,Male,Berlin,Software Engineer,4,Middle,1,C#,65000,0,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,17,Senior,2,C#,62000,62000,Full-time,1000,Production
+34,Male,Berlin,Software Engineer,14,Senior,1,C#,72000,65000,Full-time,1000,Production
+35,Male,Berlin,Data Scientist,15,Middle,1,C++,60000,60000,Full-time,1000,Production
+26,Female,Berlin,Software Engineer,8,Middle,1,c++,40000,15000,Self-employed,1000,Production
+34,Male,Berlin,Software Engineer,10,Senior,1,C++,76000,73000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,15,Middle,1,Elixir,73000,0,Full-time,1000,Services
+35,Male,Berlin,Software Engineer,8,Senior,1,Elixir,75000,0,Full-time,1000,Startup
+34,Male,Berlin,Software Engineer,13,Senior,1,Elixir,70000,0,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,9,Team Lead,1,Embedded,73000,65000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,8,Middle,1,Golang,65000,60000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,5,Senior,1,Golang,75000,58000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,12,Senior,1,Golang,75000,70000,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,17,Senior,1,Golang,75000,73000,Full-time,1000,Startup
+27,Male,Berlin,Software Engineer,7,Senior,1,Golang,80000,75000,Full-time,1000,Startup
+25,Male,Berlin,Software Engineer,6,Senior,1,Golang,86000,80000,Full-time,1000,Startup
+38,Male,Berlin,Software Engineer,15,Senior,1,Golang,75000,73000,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,7,Senior,1,Golang,75000,0,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,5,Senior,1,Golang,75000,70000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,4,Senior,1,Golang,65000,0,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,Golang,110000,110000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,6,Team Lead,1,Golang,85000,78000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,12,Team Lead,1,Golang,120000,104000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,9,Team Lead,1,Golang,85000,0,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,9,Senior,2,Grails,67473,63000,Full-time,1000,Production
+38,Male,Berlin,Admin,18,Team Lead,1,iOS,80000,80000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,10,Middle,1,iOS,71000,65000,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,16,Senior,1,iOS,65000,55000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,5,Senior,1,iOS,65000,58000,Full-time,1000,Production
+30,Male,Berlin,Admin,3,Middle,1,Java,58000,42000,Full-time,1000,Startup
+36,Male,Berlin,Admin,15,Senior,2,Java,150000,120000,Full-time,1000,Services
+32,Male,Berlin,Admin,10,Senior,1,Java,200000,0,Full-time,1000,Production
+38,Male,Berlin,Admin,24,Senior,1,Java,130000,0,Full-time,1000,Production
+33,Female,Berlin,Data Scientist,6,Middle,1,Java,60000,0,Full-time,1000,Startup
+33,Female,Berlin,Data Scientist,9,Middle,1,Java,57000,54000,Full-time,1000,Startup
+27,Male,Berlin,Data Scientist,5,Middle,1,Java,56700,0,Full-time,1000,Production
+37,Male,Berlin,Data Scientist,6,Middle,2,Java,69200,67100,Full-time,1000,Services
+32,Female,Berlin,Data Scientist,10,Senior,1,Java,61000,55000,Full-time,1000,Production
+34,Male,Berlin,Data Scientist,10,Senior,1,Java,75000,65000,Full-time,1000,Startup
+35,Male,Berlin,Data Scientist,11,Senior,1,Java,74400,0,Full-time,1000,Production
+34,Female,Berlin,Data Scientist,7,Senior,1,Java,55000,0,Full-time,1000,Production
+34,Male,Berlin,Data Scientist,10,Team Lead,1,Java,85000,73000,Full-time,1000,Startup
+27,Female,Berlin,Software Engineer,1,Junior,1,Java,42000,42000,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,5,Middle,1,Java,65000,0,Full-time,1000,Startup
+32,Male,Berlin,Software Engineer,3,Middle,1,Java,77000,62000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,5,Middle,1,Java,66000,61000,Full-time,1000,Production
+43,Male,Berlin,Software Engineer,5,Middle,1,Java,64000,63000,Full-time,1000,Production
+22,Male,Berlin,Software Engineer,4,Middle,2,Java,63000,0,Full-time,1000,Startup
+36,Male,Berlin,Software Engineer,4,Middle,1,Java,55000,55000,Full-time,1000,Production
+38,Male,Berlin,Software Engineer,5,Middle,1,Java,66000,60000,Full-time,1000,Production
+26,Male,Berlin,Software Engineer,3,Middle,1,Java,60000,0,Full-time,1000,Production
+34,Male,Berlin,Software Engineer,10,Middle,1,Java,65600,67000,Full-time,1000,Production
+29,Female,Berlin,Software Engineer,4,Middle,2,Java,60000,0,Full-time,1000,Services
+59,Male,Berlin,Software Engineer,30,Senior,1,Java,69000,69000,Full-time,1000,Production
+48,Male,Berlin,Software Engineer,25,Senior,1,Java,75000,75000,Full-time,1000,Production
+39,Female,Berlin,Software Engineer,10,Senior,1,Java,70500,68000,Full-time,1000,Services
+34,Male,Berlin,Software Engineer,12,Senior,1,Java,70000,0,Full-time,1000,Production
+28,Male,Berlin,Software Engineer,7,Senior,1,Java,95000,0,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,12,Senior,1,Java,102000,78000,Full-time,1000,Startup
+33,Male,Berlin,Software Engineer,13,Senior,1,Java,78600,78600,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,13,Senior,1,Java,110000,0,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,5,Senior,1,Java,70000,60000,Full-time,1000,Startup
+31,Male,Berlin,Software Engineer,7,Senior,1,Java,75000,75000,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,16,Senior,1,Java,80000,75000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,10,Senior,1,Java,75000,0,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,15,Senior,1,Java,85000,80000,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,15,Team Lead,1,Java,95000,90000,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,11,Team Lead,1,Java,80000,79000,Full-time,1000,Startup
+29,Female,Berlin,Software Engineer,9,Team Lead,1,Java,66000,60000,Full-time,1000,Startup
+32,Female,Berlin,Software Engineer,6,Team Lead,1,Java,75000,75000,Full-time,1000,Startup
+39,Male,Berlin,Software Engineer,15,Team Lead,1,Java,78000,78000,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,12,Team Lead,1,Java,95000,0,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,12,Team Lead,1,Java,95000,0,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,12,Team Lead,1,Java,95000,0,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,12,Team Lead,1,Java,95000,0,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,10,Team Lead,1,Java,82000,73000,Full-time,1000,Startup
+26,Female,Berlin,Admin,5,Middle,1,JavaScript,40000,33000,Full-time,1000,Production
+33,Male,Berlin,Data Scientist,6,Middle,1,JavaScript,50000,45000,Full-time,1000,Production
+31,Female,Berlin,Data Scientist,11,Middle,1,JavaScript,57000,55000,Full-time,1000,Startup
+30,Female,Berlin,Data Scientist,8,Senior,1,JavaScript,70000,0,Full-time,1000,Production
+35,Male,Berlin,Data Scientist,12,Senior,1,JavaScript,63000,56000,Full-time,1000,Production
+27,Male,Berlin,Software Engineer,8,Middle,1,JavaScript,63000,0,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,4,Middle,1,JavaScript,50000,0,Full-time,1000,Production
+35,Female,Berlin,Software Engineer,12,Middle,1,JavaScript,70000,70000,Full-time,1000,E-commerce
+28,Female,Berlin,Software Engineer,3,Middle,1,JavaScript,60000,55000,Full-time,1000,Startup
+32,Male,Berlin,Software Engineer,10,Middle,1,JavaScript,85000,78000,Full-time,1000,Production
+28,Female,Berlin,Software Engineer,3,Middle,1,JavaScript,54500,52000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,5,Middle,1,JavaScript,60000,60000,Full-time,1000,Startup
+36,Male,Berlin,Software Engineer,6,Middle,1,JavaScript,58000,55000,Full-time,1000,Production
+27,Male,Berlin,Software Engineer,5,Middle,2,JavaScript,58000,0,Full-time,1000,Startup
+32,Female,Berlin,Software Engineer,2,Middle,1,JavaScript,63000,50000,Full-time,1000,Production
+34,Male,Berlin,Software Engineer,6,Middle,1,JavaScript,63000,58000,Full-time,1000,Startup
+28,Male,Berlin,Software Engineer,5,Middle,1,JavaScript,55000,55000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,14,Middle,1,JavaScript,75000,73500,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,8,Senior,1,JavaScript,80000,72000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,12,Senior,1,JavaScript,120000,65000,Self-employed,1000,Production
+39,Male,Berlin,Software Engineer,10,Senior,1,JavaScript,85000,0,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,JavaScript,74000,66000,Full-time,1000,Startup
+31,Male,Berlin,Software Engineer,8,Senior,2,JavaScript,70000,0,Full-time,1000,Startup
+29,Male,Berlin,Software Engineer,8,Senior,1,JavaScript,77250,65000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,12,Team Lead,2,JavaScript,120000,100000,Self-employed,1000,Production
+32,Male,Berlin,Software Engineer,9,Team Lead,1,JavaScript,90000,75000,Full-time,1000,Production
+28,Female,Berlin,Software Engineer,8,Team Lead,1,JavaScript,80000,0,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,10,Team Lead,1,JavaScript,75000,70000,Full-time,1000,Startup
+31,Male,Berlin,Software Engineer,9,Team Lead,1,JavaScript,99000,89000,Full-time,1000,Startup
+34,Male,Berlin,Software Engineer,13,Team Lead,1,JavaScript,85000,0,Full-time,1000,Production
+30,Female,Berlin,Software Engineer,3,Team Lead,1,JavaScript,57600,51200,Full-time,1000,Production
+27,Male,Berlin,Software Engineer,3,Middle,1,Kotlin,65000,0,Full-time,1000,Startup
+28,Male,Berlin,Software Engineer,5,Senior,1,Kotlin,75000,58000,Full-time,1000,Startup
+26,Male,Berlin,Software Engineer,6,Senior,1,Kotlin,70000,65000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,8,Senior,1,Kotlin,65000,52000,Full-time,1000,Production
+34,Female,Berlin,Software Engineer,9,Senior,1,Kotlin,78000,65000,Full-time,1000,Production
+34,Male,Berlin,Software Engineer,11,Team Lead,1,Kotlin,80000,75000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,7,Senior,2,Kuberenetes,82000,78000,Full-time,1000,Services
+30,Male,Berlin,Admin,10,Senior,1,Kuberenetes,68000,68000,Full-time,1000,Production
+24,Male,Berlin,Software Engineer,6,Senior,1,Kuberenetes,75000,63000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,7,Team Lead,1,Kuberenetes,78000,70000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,9,Team Lead,1,Kuberenetes,90000,80000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,8,Team Lead,1,Node JS,90000,85000,Full-time,1000,Production
+28,Male,Berlin,Admin,4,Junior,1,Others,57000,45000,Full-time,1000,Production
+37,Male,Berlin,Admin,6,Middle,1,Others,62000,58000,Full-time,1000,Production
+35,Male,Berlin,Admin,14,Middle,1,Others,44000,0,Full-time,1000,Startup
+29,Male,Berlin,Admin,5,Middle,1,Others,57750,55000,Full-time,1000,Startup
+31,Female,Berlin,Admin,4,Middle,1,Others,60000,70000,Full-time,1000,Startup
+28,Male,Berlin,Admin,7,Senior,1,Others,60000,0,Full-time,1000,Production
+38,Male,Berlin,Admin,15,Senior,1,Others,80000,75000,Full-time,1000,Production
+33,Male,Berlin,Admin,5,Senior,1,Others,70000,65000,Full-time,1000,Production
+35,Female,Berlin,Admin,13,Senior,1,Others,85000,64000,Full-time,1000,Production
+35,Female,Berlin,Admin,5,Senior,1,Others,60000,50000,Full-time,1000,Startup
+29,Male,Berlin,Data Scientist,9,Senior,1,Others,62000,55000,Full-time,1000,Startup
+33,Male,Berlin,Software Engineer,10,Senior,1,Others,93000,0,Full-time,1000,Startup
+38,Male,Berlin,Software Engineer,5,Team Lead,1,Others,80000,70000,Full-time,1000,Startup
+28,Male,Berlin,Software Engineer,10,Team Lead,1,Others,78000,0,Self-employed,1000,Production
+36,Male,Berlin,Software Engineer,15,Team Lead,1,Others,90000,0,Full-time,1000,Startup
+31,Female,Berlin,UI/UX Designer,11,Middle,1,Others,32000,21800,Full-time,1000,Startup
+40,Male,Berlin,UI/UX Designer,10,Middle,1,Others,89000,0,Full-time,1000,Production
+35,Male,Berlin,Admin,10,Senior,1,PHP,90000,0,Full-time,1000,Production
+28,Male,Berlin,Software Engineer,6,Middle,1,PHP,60000,60000,Full-time,1000,E-commerce
+29,Male,Berlin,Software Engineer,8,Senior,1,PHP,56000,55000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,19,Senior,1,PHP,69000,69000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,18,Senior,1,PHP,65000,60000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,12,Senior,1,PHP,67000,65000,Full-time,1000,Production
+28,Male,Berlin,Software Engineer,7,Senior,1,PHP,70000,0,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,10,Senior,1,PHP,63500,60000,Full-time,1000,Production
+39,Male,Berlin,Software Engineer,6,Senior,1,PHP,60000,0,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,12,Senior,1,PHP,54000,0,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,20,Senior,1,PHP,65000,63000,Full-time,1000,Startup
+42,Male,Berlin,Software Engineer,19,Senior,1,PHP,66000,65000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,15,Senior,1,PHP,70000,67000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,17,Team Lead,1,PHP,70000,65000,Full-time,1000,Production
+28,Male,Berlin,Software Engineer,8,Team Lead,1,PHP,80000,72000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,12,Team Lead,1,PHP,65000,60000,Full-time,1000,Production
+30,Female,Berlin,Data Scientist,5,Middle,1,Python,50000,50000,Full-time,1000,Production
+34,Male,Berlin,Data Scientist,5,Middle,1,Python,65000,60000,Full-time,1000,Production
+28,Male,Berlin,Data Scientist,4,Middle,1,Python,70000,70000,Full-time,1000,Production
+28,Female,Berlin,Data Scientist,4,Middle,1,Python,65000,56000,Full-time,1000,Production
+26,Male,Berlin,Data Scientist,5,Middle,1,Python,59000,55000,Full-time,1000,Startup
+36,Male,Berlin,Data Scientist,5,Middle,1,Python,50000,0,Full-time,1000,Startup
+31,Male,Berlin,Data Scientist,5,Middle,1,Python,90000,90000,Full-time,1000,Production
+37,Female,Berlin,Data Scientist,2,Middle,1,Python,62000,58000,Full-time,1000,Services
+31,Male,Berlin,Data Scientist,4,Middle,1,Python,50000,45000,Full-time,1000,Production
+37,Male,Berlin,Data Scientist,8,Middle,1,Python,54000,54000,Full-time,1000,Production
+38,Male,Berlin,Data Scientist,15,Senior,1,Python,100000,80000,Full-time,1000,Startup
+38,Male,Berlin,Data Scientist,15,Senior,1,Python,100000,80000,Full-time,1000,Startup
+30,Male,Berlin,Data Scientist,7,Senior,1,Python,100000,100000,Full-time,1000,Startup
+24,Male,Berlin,Data Scientist,4,Senior,1,Python,73000,50000,Full-time,1000,Startup
+29,Male,Berlin,Data Scientist,4,Senior,1,Python,81000,72000,Full-time,1000,Production
+31,Male,Berlin,Data Scientist,9,Senior,1,Python,81000,80600,Full-time,1000,Production
+40,Male,Berlin,Data Scientist,11,Senior,1,Python,60000,60000,Full-time,1000,Production
+35,Male,Berlin,Data Scientist,9,Senior,1,Python,77000,70000,Full-time,1000,Startup
+33,Male,Berlin,Data Scientist,13,Senior,1,Python,85000,75000,Full-time,1000,Startup
+28,Male,Berlin,Data Scientist,7,Senior,1,Python,90000,75000,Full-time,1000,Startup
+34,Male,Berlin,Data Scientist,3,Senior,1,Python,70000,55000,Full-time,1000,Production
+37,Male,Berlin,Data Scientist,10,Senior,1,Python,82000,79000,Full-time,1000,Production
+38,Male,Berlin,Data Scientist,10,Senior,1,Python,87550,85000,Full-time,1000,Production
+27,Female,Berlin,Data Scientist,5,Senior,1,Python,75000,60000,Full-time,1000,Production
+32,Male,Berlin,Data Scientist,7,Senior,2,Python,82000,75000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,5,Middle,1,Python,65000,65000,Full-time,1000,Production
+23,Male,Berlin,Software Engineer,5,Middle,1,Python,53000,0,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,10,Middle,1,Python,62000,0,Full-time,1000,Production
+26,Male,Berlin,Software Engineer,5,Middle,2,Python,69000,60000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,4,Middle,1,Python,58000,55000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,17,Senior,1,Python,124000,0,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,7,Senior,1,Python,64000,60000,Full-time,1000,Startup
+37,Male,Berlin,Software Engineer,8,Senior,1,Python,76900,70000,Full-time,1000,Production
+39,Male,Berlin,Software Engineer,15,Senior,1,Python,70000,70000,Full-time,1000,Production
+37,Male,Berlin,Software Engineer,11,Senior,1,Python,73000,67000,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,4,Senior,1,Python,68000,64000,Full-time,1000,Startup
+31,Male,Berlin,Software Engineer,7,Team Lead,1,Python,76000,69000,Full-time,1000,Startup
+30,Male,Berlin,Software Engineer,10,Team Lead,1,Python,78000,75000,Full-time,1000,Startup
+31,Male,Berlin,Software Engineer,10,Team Lead,1,Python,82000,0,Full-time,1000,Startup
+35,Male,Berlin,Data Scientist,5,Middle,1,R,49000,48000,Full-time,1000,Production
+35,Female,Berlin,Software Engineer,2,Junior,1,React,40000,38000,Full-time,1000,Startup
+28,Male,Berlin,Software Engineer,7,Middle,2,React,62000,63000,Full-time,1000,Production
+42,Male,Berlin,Software Engineer,18,Senior,2,React,850000,75000,Full-time,1000,Production
+26,Male,Berlin,Software Engineer,7,Senior,1,Ruby,80000,82000,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,10,Senior,1,Ruby,75000,72000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,6,Senior,1,Ruby,75000,65000,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,10,Senior,1,Ruby,72000,0,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,10,Senior,1,Ruby,80000,0,Full-time,1000,Production
+34,Male,Berlin,Software Engineer,16,Team Lead,1,Ruby,91000,91000,Full-time,1000,Startup
+28,Male,Berlin,Data Scientist,5,Middle,1,Scala,65000,60000,Full-time,1000,Production
+26,Male,Berlin,Software Engineer,5,Middle,1,Scala,63000,56500,Full-time,1000,Production
+25,Female,Berlin,Software Engineer,4,Middle,3,Scala,65000,0,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,10,Senior,1,Scala,72000,70000,Full-time,1000,Production
+29,Male,Berlin,Software Engineer,8,Senior,1,Scala,72000,0,Full-time,1000,Startup
+30,Female,Berlin,Software Engineer,8,Senior,2,Scala,75000,65000,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,9,Senior,1,Scala,90000,87000,Full-time,1000,Production
+36,Male,Berlin,Software Engineer,16,Team Lead,1,Scala,120000,120000,Full-time,1000,Startup
+39,Male,Berlin,Data Scientist,7,Senior,1,Others,70000,65000,Full-time,1000,Startup
+32,Female,Berlin,Admin,10,Team Lead,1,Software Quality Assurance,65000,0,Full-time,1000,Production
+28,Male,Berlin,Data Scientist,5,Middle,1,Software Quality Assurance,60000,58000,Full-time,1000,Production
+40,Male,Berlin,Software Engineer,14,Team Lead,1,Spring,135000,65000,Self-employed,1000,Production
+40,Male,Berlin,Admin,13,Senior,1,SQL,70000,0,Full-time,1000,Production
+32,Female,Berlin,Data Scientist,1,Junior,1,SQL,48000,0,Full-time,1000,Startup
+31,Female,Berlin,Data Scientist,6,Middle,1,SQL,60000,50000,Full-time,1000,Startup
+33,Male,Berlin,Data Scientist,7,Middle,1,SQL,68000,48000,Full-time,1000,Production
+26,Male,Berlin,Data Scientist,7,Middle,1,SQL,60000,0,Full-time,1000,Startup
+33,Male,Berlin,Data Scientist,2,Middle,1,SQL,62000,50000,Full-time,1000,Production
+26,Female,Berlin,Data Scientist,4,Middle,4,SQL,45000,45000,Full-time,1000,Startup
+28,Female,Berlin,Data Scientist,3,Middle,1,SQL,53000,43000,Full-time,1000,Production
+34,Male,Berlin,Data Scientist,10,Senior,1,SQL,75000,65000,Full-time,1000,Production
+31,Male,Berlin,Data Scientist,7,Senior,1,SQL,83000,75000,Full-time,1000,Startup
+33,Male,Berlin,Software Engineer,6,Middle,1,Swift,63000,60000,Full-time,1000,Production
+45,Male,Berlin,Software Engineer,10,Team Lead,1,Swift,77000,66000,Full-time,1000,Production
+35,Male,Berlin,Admin,10,Senior,1,Terraform,75000,75000,Full-time,1000,Production
+32,Female,Berlin,Software Engineer,9,Middle,4,Terraform,74000,65000,Full-time,1000,Production
+31,Male,Berlin,Software Engineer,11,Senior,1,Terraform,81000,75000,Full-time,1000,Startup
+32,Male,Berlin,Software Engineer,7,Middle,1,TypeScript,68000,0,Full-time,1000,Startup
+29,Male,Berlin,Software Engineer,7,Middle,1,Others,72000,0,Full-time,1000,Production
+32,Male,Berlin,Software Engineer,10,Senior,1,TypeScript,105000,80000,Self-employed,1000,Production
+30,Male,Berlin,Software Engineer,4,Senior,1,TypeScript,73000,70000,Full-time,1000,Production
+24,Male,Berlin,Software Engineer,5,Senior,1,TypeScript,68250,65000,Full-time,1000,Production
+33,Male,Berlin,Software Engineer,14,Senior,1,Others,67000,65000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,7,Senior,1,Others,70000,70000,Full-time,1000,Production
+30,Male,Berlin,Software Engineer,11,Senior,1,Others,80000,75000,Full-time,1000,Production
+35,Male,Berlin,Software Engineer,13,Team Lead,1,TypeScript,103000,92000,Full-time,1000,Startup
+29,Female,Berlin,Admin,6,Middle,1,Web Programming,51000,0,Full-time,1000,Startup
+34,Male,Berlin,Software Engineer,10,Senior,1,.NET,60000,55000,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,15,Senior,1,.NET,80000,67000,Full-time,1000+,Services
+33,Male,Berlin,Software Engineer,10,Senior,1,.NET,62000,57000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,12,Team Lead,1,.NET,78000,64000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,16,Senior,1,ABAP,83000,80000,Full-time,1000+,Startup
+28,Male,Berlin,Software Engineer,6,Middle,1,Android,85000,0,Full-time,1000+,Production
+36,Male,Berlin,Software Engineer,10,Middle,1,Android,68000,65000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,9,Senior,1,Android,72000,65000,Full-time,1000+,Production
+33,Female,Berlin,Software Engineer,13,Middle,2,Angular,47745,47745,full-time,1000+,Production
+37,Male,Berlin,Software Engineer,14,Senior,1,Angular,84000,82000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,10,Senior,1,Angular,68000,68000,Full-time,1000+,Startup
+25,Male,Berlin,Software Engineer,6,Middle,2,Apache,100000,73000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,5,Senior,4,AWS,76000,76000,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,8,Senior,1,AWS,75000,72500,Full-time,1000+,Services
+29,Male,Berlin,Data Scientist,3,Middle,1,Azure,54000,45000,Full-time,1000+,Services
+33,Male,Berlin,Admin,10,Senior,1,Business Intelligence,60000,48000,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,15,Senior,2,C,78000,78000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Team Lead,2,C,95000,75000,Full-time,1000+,Production
+24,Male,Berlin,Software Engineer,3,Junior,1,C#,48000,0,Full-time,1000+,Services
+39,Male,Berlin,Software Engineer,10,Senior,1,C#,75000,65000,Full-time,1000+,Services
+31,Male,Berlin,Software Engineer,9,Senior,3,C#,60000,0,Full-time,1000+,Startup
+31,Male,Berlin,Software Engineer,9,Senior,3,C#,60000,0,Full-time,1000+,Startup
+35,Male,Berlin,Software Engineer,12,Senior,1,C#,70000,0,Full-time,1000+,Production
+35,Female,Berlin,Software Engineer,15,Senior,1,C#,76000,0,Full-time,1000+,Production
+20,Male,Berlin,Software Engineer,5,Team Lead,1,C#,240000,0,Full-time,1000+,Production
+36,Male,Berlin,Software Engineer,18,Senior,1,C++,98000,98000,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,15,Senior,1,C++,77000,77000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,25,Senior,1,C++,100000,80000,Self-employed,1000+,Production
+32,Male,Berlin,Software Engineer,11,Senior,1,C++,100000,0,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,7,Senior,1,C++,65900,0,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,9,Senior,1,C++,73000,73000,Full-time,1000+,Production
+45,Male,Berlin,Software Engineer,25,Team Lead,1,C++,75000,73000,Full-time,1000+,Production
+50,Male,Berlin,Software Engineer,29,Team Lead,1,C++,28800,28800,Full-time,1000+,Services
+37,Male,Berlin,Software Engineer,15,Senior,1,Services,72000,62000,Full-time,1000+,Production
+48,Male,Berlin,Software Engineer,10,Senior,1,Networking,68500,0,Full-time,1000+,Startup
+33,Female,Berlin,Software Engineer,12,Senior,1,D Programming,88000,96000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,10,Team Lead,1,DevOps,100000,0,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,2,Team Lead,1,DWH,90000,97000,Full-time,1000+,Production
+28,Female,Berlin,UI/UX Designer,7,Middle,1,Figma,45000,37000,Full-time,1000+,Production
+28,Female,Berlin,UI/UX Designer,7,Middle,1,Figma,45000,37000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,10,Team Lead,1,Frontend,115000,100000,Full-time,1000+,Services
+29,Male,Berlin,Software Engineer,8,Senior,1,Golang,70000,70000,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,7,Senior,1,Golang,72000,0,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,8,Senior,1,Golang,90000,85000,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,4,Senior,1,Golang,70000,0,Full-time,1000+,Startup
+26,Male,Berlin,Software Engineer,6,Senior,1,Golang,70000,64000,Full-time,1000+,Production
+39,Male,Berlin,Software Engineer,19,Senior,1,Golang,87000,82000,Full-time,1000+,Startup
+26,Male,Berlin,Software Engineer,8,Team Lead,1,Golang,85000,75000,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,20,Team Lead,1,Golang,85000,75000,Full-time,1000+,Production
+36,Male,Berlin,Software Engineer,15,Team Lead,1,Golang,85000,80000,Full-time,1000+,Production
+26,Male,Berlin,UI/UX Designer,9,Senior,1,Golang,120000,95000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Middle,1,iOS,65000,0,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,7,Senior,1,iOS,80000,72500,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,9,Senior,1,iOS,80000,67000,Full-time,1000+,Production
+45,Female,Berlin,Admin,15,Team Lead,1,Java,52000,52000,Full-time,1000+,Production
+32,Female,Berlin,Data Scientist,10,Middle,1,Java,68000,62000,Full-time,1000+,Production
+32,Female,Berlin,Data Scientist,5,Middle,1,Java,50400,50400,Full-time,1000+,Production
+35,Male,Berlin,Data Scientist,6,Senior,1,Java,200000,200000,Self-employed,1000+,Startup
+39,Male,Berlin,Data Scientist,7,Senior,1,Java,76000,65000,Full-time,1000+,Production
+36,Female,Berlin,Data Scientist,14,Team Lead,1,Java,69000,63000,Full-time,1000+,Production
+32,Female,Berlin,Data Scientist,10,Team Lead,1,Java,65000,55000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,5,Middle,1,Java,55000,0,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,6,Middle,1,Java,61500,0,Full-time,1000+,E-commerce
+27,Male,Berlin,Software Engineer,5,Middle,1,Java,65000,0,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,5,Middle,1,Java,65000,0,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,6,Middle,2,Java,62000,54000,Full-time,1000+,Services
+25,Male,Berlin,Software Engineer,5,Middle,1,Java,80000,0,Full-time,1000+,Startup
+33,Female,Berlin,Software Engineer,6,Middle,1,Java,65000,54000,Full-time,1000+,Startup
+27,Male,Berlin,Software Engineer,6,Middle,1,Java,82000,94000,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,6,Middle,1,Java,63700,60000,Full-time,1000+,E-commerce
+23,Male,Berlin,Software Engineer,3,Middle,1,Java,80000,0,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,4,Middle,1,Java,67000,50000,Full-time,1000+,Production
+26,Female,Berlin,Software Engineer,5,Middle,1,Java,65000,0,Full-time,1000+,Production
+26,Male,Berlin,Software Engineer,5,Middle,1,Java,72000,65000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,20,Senior,1,Java,130000,130000,Full-time,1000+,Services
+36,Male,Berlin,Software Engineer,10,Senior,2,Java,100000,85000,Full-time,1000+,Production
+49,Male,Berlin,Software Engineer,15,Senior,1,Java,67000,66000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,6,Senior,1,Java,74000,54000,Full-time,1000+,Production
+44,Male,Berlin,Software Engineer,12,Senior,1,Java,68000,68000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,6,Senior,1,Java,65000,60000,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,7,Senior,2,Java,62000,52000,Full-time,1000+,Services
+29,Male,Berlin,Software Engineer,9,Senior,1,Java,85000,66000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,12,Senior,1,Java,83000,75000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,Java,90000,78000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,10,Senior,1,Java,70000,70000,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,16,Senior,1,Java,83000,80000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,8,Senior,2,Java,77000,72000,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,5,Senior,1,Java,70000,0,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,7,Senior,1,Java,86000,82600,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,9,Senior,1,Java,81900,0,Full-time,1000+,Startup
+31,Male,Berlin,Software Engineer,12,Senior,1,Java,60000,55000,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,15,Senior,1,Java,85000,85000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,12,Senior,1,Java,92000,85000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,4,Senior,1,Java,69000,65000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,11,Senior,2,Java,90000,80000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,14,Team Lead,1,Java,95000,90000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,13,Team Lead,1,Java,89570,82240,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,9,Team Lead,1,Java,75000,0,Full-time,1000+,Startup
+34,Male,Berlin,Software Engineer,15,Team Lead,1,Java,80000,76000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,4,Team Lead,1,Java,95000,89000,Full-time,1000+,Startup
+43,Male,Berlin,Software Engineer,20,Team Lead,1,Java,105000,105000,Full-time,1000+,Production
+40,Male,Berlin,Software Engineer,20,Team Lead,1,Java,80000,0,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,15,Team Lead,1,Java,85000,80000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,14,Team Lead,1,Java,95000,92000,Full-time,1000+,Production
+44,Male,Berlin,Admin,15,Team Lead,2,JavaScript,72000,72000,Full-time,1000+,Production
+42,Female,Berlin,Data Scientist,10,Middle,2,JavaScript,42000,32000,Full-time,1000+,Startup
+34,Male,Berlin,Data Scientist,10,Senior,1,JavaScript,70000,65000,Full-time,1000+,Production
+32,Male,Berlin,Data Scientist,10,Senior,1,JavaScript,81000,81000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,2,Junior,1,JavaScript,47000,46000,Full-time,1000+,Research Institute
+24,Male,Berlin,Software Engineer,2,Junior,1,JavaScript,50000,35000,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,6,Middle,1,JavaScript,57000,0,Full-time,1000+,Production
+40,Male,Berlin,Software Engineer,7,Middle,1,JavaScript,54000,54000,Full-time,1000+,Production
+23,Male,Berlin,Software Engineer,4,Middle,1,JavaScript,70500,58000,Full-time,1000+,Production
+25,Female,Berlin,Software Engineer,4,Middle,2,JavaScript,60000,0,Full-time,1000+,Startup
+23,Male,Berlin,Software Engineer,3,Middle,1,JavaScript,60000,52000,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,5,Middle,1,JavaScript,66000,60000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,3,Middle,1,JavaScript,55000,42000,Full-time,1000+,Startup
+29,Male,Berlin,Software Engineer,8,Senior,1,JavaScript,82500,65000,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,5,Senior,1,JavaScript,65000,0,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,8,Senior,2,JavaScript,69000,0,Full-time,1000+,Production
+36,Male,Berlin,Software Engineer,14,Senior,1,JavaScript,78000,70000,Full-time,1000+,Startup
+35,Male,Berlin,Software Engineer,10,Senior,1,JavaScript,75000,70000,Full-time,1000+,Startup
+29,Male,Berlin,Software Engineer,9,Senior,2,JavaScript,74000,0,Full-time,1000+,Startup
+25,Male,Berlin,Software Engineer,6,Senior,2,JavaScript,71750,66000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,13,Senior,1,JavaScript,70000,65000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,6,Senior,1,JavaScript,79000,77000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,6,Senior,1,JavaScript,75000,60000,Full-time,1000+,Startup
+35,Male,Berlin,Software Engineer,20,Senior,1,JavaScript,100000,90000,Full-time,1000+,Production
+28,Female,Berlin,Software Engineer,5,Senior,1,JavaScript,64000,60000,Full-time,1000+,Production
+39,Male,Berlin,Software Engineer,12,Team Lead,1,JavaScript,82000,80000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,13,Team Lead,1,JavaScript,83000,80000,Full-time,1000+,Production
+35,Male,Berlin,Software Engineer,12,Middle,1,Kotlin,75000,74000,Full-time,1000+,Production
+43,Male,Berlin,Software Engineer,5,Senior,1,Kotlin,72000,68000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,11,Senior,1,Kotlin,55000,55000,Full-time,1000+,Startup
+32,Female,Berlin,Software Engineer,7,Senior,1,Kotlin,63000,55000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,6,Senior,1,Kotlin,90000,80000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,14,Senior,1,Kotlin,95000,90000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,12,Senior,1,Kotlin,75000,72000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,13,Team Lead,1,Kotlin,85000,0,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,14,Team Lead,1,Kotlin,96000,85000,Full-time,1000+,Startup
+37,Male,Berlin,Software Engineer,12,Team Lead,2,Kotlin,90000,84000,Full-time,1000+,Production
+28,Male,Berlin,Admin,6,Middle,1,Kuberenetes,66000,66000,Full-time,1000+,Production
+26,Male,Berlin,Software Engineer,5,Middle,3,Kuberenetes,72000,60000,Full-time,1000+,Startup
+34,Male,Berlin,Software Engineer,12,Team Lead,1,Kuberenetes,94000,92000,Full-time,1000+,Production
+41,Male,Berlin,Software Engineer,20,Senior,4,Linux,58800,56400,Full-time,1000+,Services
+32,Male,Berlin,Software Engineer,10,Senior,1,Node JS,80000,72000,Full-time,1000+,Startup
+34,Male,Berlin,Software Engineer,15,Team Lead,1,Node JS,100000,92000,Full-time,1000+,Production
+30,Male,Berlin,Admin,3,Junior,1,Others,30000,0,Full-time,1000+,Production
+30,Male,Berlin,Admin,3,Junior,1,Others,30000,0,Full-time,1000+,Production
+22,Female,Berlin,Admin,4,Middle,1,Others,39000,39000,Full-time,1000+,Startup
+33,Male,Berlin,Admin,5,Middle,1,Others,70000,0,Full-time,1000+,Production
+37,Male,Berlin,Admin,6,Middle,1,Others,47400,44000,Full-time,1000+,Services
+32,Female,Berlin,Admin,8,Middle,1,Others,55000,0,Full-time,1000+,Services
+30,Male,Berlin,Admin,7,Senior,1,Others,150000,0,Full-time,1000+,Startup
+40,Male,Berlin,Admin,13,Senior,1,Others,90000,75000,Full-time,1000+,Production
+40,Male,Berlin,Admin,13,Senior,1,Others,90000,75000,Full-time,1000+,Production
+40,Male,Berlin,Admin,13,Senior,1,Others,90000,75000,Full-time,1000+,Production
+36,Female,Berlin,Admin,11,Senior,1,Others,70000,55000,Full-time,1000+,Production
+31,Female,Berlin,Admin,10,Senior,1,Others,60000,0,Full-time,1000+,Production
+36,Male,Berlin,Admin,10,Senior,1,Others,85000,80000,Full-time,1000+,Production
+39,Male,Berlin,Admin,10,Team Lead,1,Others,120000,120000,Full-time,1000+,Production
+33,Male,Berlin,Admin,10,Team Lead,1,Others,85000,70000,Full-time,1000+,Startup
+33,Female,Berlin,Data Scientist,8,Senior,1,Others,50000,42000,Full-time,1000+,Startup
+31,Male,Berlin,Data Scientist,10,Senior,1,Others,60000,67500,Full-time,1000+,Production
+31,Male,Berlin,Data Scientist,6,Senior,1,Others,78000,76000,Full-time,1000+,E-commerce
+30,Male,Berlin,Data Scientist,6,Senior,1,Others,72000,65000,Full-time,1000+,Startup
+33,Male,Berlin,Data Scientist,10,Senior,1,Others,90000,0,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,9,Team Lead,1,Others,95000,0,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,9,Team Lead,1,Others,90000,81000,Full-time,1000+,Production
+35,Female,Berlin,UI/UX Designer,15,Middle,1,Others,53000,0,Full-time,1000+,Production
+29,Male,Berlin,UI/UX Designer,6,Middle,1,Others,56000,54000,Full-time,1000+,Startup
+28,Male,Berlin,UI/UX Designer,11,Senior,1,Others,75000,66000,Full-time,1000+,Production
+28,Female,Berlin,UI/UX Designer,5,Senior,1,Others,60000,0,Full-time,1000+,Production
+35,Male,Berlin,UI/UX Designer,10,Senior,1,Others,50400,50400,Full-time,1000+,Services
+28,Female,Berlin,UI/UX Designer,5,Senior,1,Others,60000,0,Full-time,1000+,Services
+38,Male,Berlin,Software Engineer,8,Senior,1,Perl,64000,64000,Full-time,1000+,Production
+26,Male,Berlin,Software Engineer,2,Junior,1,PHP,25000,25000,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,8,Middle,1,PHP,55000,0,Full-time,1000+,Startup
+30,Male,Berlin,Software Engineer,10,Middle,1,PHP,56000,0,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,5,Middle,1,PHP,56000,0,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,6,Middle,1,PHP,58000,0,Full-time,1000+,Production
+29,Female,Berlin,Software Engineer,5,Middle,1,PHP,55000,47000,Full-time,1000+,Startup
+42,Male,Berlin,Software Engineer,18,Middle,1,PHP,53000,0,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,12,Middle,1,PHP,65000,65000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,15,Middle,2,PHP,40700,20000,Full-time,1000+,Services
+33,Male,Berlin,Software Engineer,10,Senior,1,PHP,100000,84000,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,8,Senior,1,PHP,60000,55000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,8,Senior,1,PHP,65000,60000,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,10,Senior,1,PHP,55000,55000,Full-time,1000+,Startup
+40,Male,Berlin,Software Engineer,18,Senior,1,PHP,60000,60000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,9,Senior,1,PHP,60000,45000,Full-time,1000+,Production
+45,Male,Berlin,Software Engineer,30,Senior,1,PHP,55000,55000,Full-time,1000+,Startup
+35,Male,Berlin,Software Engineer,13,Senior,1,PHP,68000,68000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,12,Team Lead,1,PHP,90000,0,Full-time,1000+,Production
+35,Female,Berlin,Data Scientist,3,Middle,1,Power BI,55000,45000,Full-time,1000+,Production
+37,Male,Berlin,Admin,12,Senior,1,Python,90000,85000,Full-time,1000+,Services
+39,Male,Berlin,Admin,11,Senior,1,Python,180000,130000,Full-time,1000+,Production
+34,Female,Berlin,Admin,13,Senior,1,Python,108000,90000,Full-time,1000+,Production
+35,Male,Berlin,Admin,16,Senior,1,Python,100000,100000,Full-time,1000+,Production
+27,Male,Berlin,Admin,5,Team Lead,3,Python,90000,75000,Full-time,1000+,Startup
+29,Female,Berlin,Data Scientist,1,Junior,1,Python,20000,0,Full-time,1000+,Production
+26,Male,Berlin,Data Scientist,2,Junior,1,Python,55000,0,Full-time,1000+,Production
+31,Male,Berlin,Data Scientist,4,Junior,1,Python,62000,50000,Full-time,1000+,Production
+26,Female,Berlin,Data Scientist,2,Junior,1,Python,47000,0,Full-time,1000+,Services
+25,Male,Berlin,Data Scientist,1,Junior,3,Python,51000,0,Full-time,1000+,Production
+33,Female,Berlin,Data Scientist,1,Junior,1,Python,55000,0,Full-time,1000+,Production
+28,Male,Berlin,Data Scientist,1,Junior,1,Python,48000,0,Full-time,1000+,Startup
+24,Male,Berlin,Data Scientist,1,Junior,1,Python,11500,0,Werkstudent,1000+,Services
+27,Male,Berlin,Data Scientist,1,Junior,1,Python,40000,34000,Full-time,1000+,Services
+37,Male,Berlin,Data Scientist,3,Junior,1,Python,67000,0,Full-time,1000+,Production
+30,Female,Berlin,Data Scientist,5,Middle,1,Python,51000,46000,Full-time,1000+,Startup
+42,Female,Berlin,Data Scientist,20,Middle,1,Python,55000,0,Full-time,1000+,Production
+29,Male,Berlin,Data Scientist,5,Middle,1,Python,68000,55000,Full-time,1000+,Startup
+27,Male,Berlin,Data Scientist,6,Middle,1,Python,82000,78000,Full-time,1000+,Production
+26,Male,Berlin,Data Scientist,2,Middle,1,Python,54000,31000,Full-time,1000+,Production
+27,Female,Berlin,Data Scientist,1,Middle,2,Python,63000,42000,Full-time,1000+,Production
+30,Male,Berlin,Data Scientist,6,Middle,1,Python,65000,0,Full-time,1000+,Production
+31,Male,Berlin,Data Scientist,7,Middle,1,Python,80000,65000,Full-time,1000+,Production
+26,Male,Berlin,Data Scientist,4,Middle,1,Python,60000,60000,Full-time,1000+,E-commerce
+28,Male,Berlin,Data Scientist,6,Middle,1,Python,83000,75000,Full-time,1000+,Production
+33,Male,Berlin,Data Scientist,11,Middle,1,Python,68000,0,Full-time,1000+,Production
+27,Male,Berlin,Data Scientist,6,Middle,1,Python,74000,70000,Full-time,1000+,Production
+37,Female,Berlin,Data Scientist,8,Middle,1,Python,67000,0,Full-time,1000+,Startup
+26,Male,Berlin,Data Scientist,4,Middle,1,Python,55000,45000,Full-time,1000+,Production
+28,Female,Berlin,Data Scientist,4,Middle,1,Python,73700,67000,Full-time,1000+,Production
+31,Male,Berlin,Data Scientist,5,Middle,1,Python,77500,54000,Full-time,1000+,Production
+38,Male,Berlin,Data Scientist,17,Middle,1,Python,68500,62400,Full-time,1000+,Production
+23,Male,Berlin,Data Scientist,4,Middle,1,Python,45000,0,Full-time,1000+,Production
+40,Female,Berlin,Data Scientist,16,Middle,1,Python,65000,57000,Full-time,1000+,Startup
+29,Male,Berlin,Data Scientist,6,Senior,1,Python,92000,75000,Full-time,1000+,Production
+33,Male,Berlin,Data Scientist,4,Senior,1,Python,105000,85000,Full-time,1000+,Services
+37,Female,Berlin,Data Scientist,7,Senior,1,Python,75000,0,Full-time,1000+,Startup
+32,Male,Berlin,Data Scientist,10,Senior,1,Python,110000,85000,Full-time,1000+,Services
+42,Male,Berlin,Data Scientist,20,Senior,1,Python,80000,66000,Full-time,1000+,Production
+34,Male,Berlin,Data Scientist,12,Senior,1,Python,90000,80000,Full-time,1000+,Production
+30,Female,Berlin,Data Scientist,6,Senior,1,Python,76000,63000,Full-time,1000+,Production
+38,Male,Berlin,Data Scientist,15,Senior,1,Python,56000,56000,Full-time,1000+,Production
+34,Male,Berlin,Data Scientist,6,Senior,1,Python,80000,76000,Full-time,1000+,Production
+34,Female,Berlin,Data Scientist,11,Senior,1,Python,60000,36000,Full-time,1000+,Production
+33,Female,Berlin,Data Scientist,8,Senior,1,Python,77000,70000,Full-time,1000+,Production
+35,Male,Berlin,Data Scientist,12,Senior,1,Python,77000,65000,Full-time,1000+,Startup
+29,Male,Berlin,Data Scientist,5,Senior,1,Python,75000,75000,Full-time,1000+,Startup
+36,Female,Berlin,Data Scientist,5,Senior,1,Python,87000,77000,Full-time,1000+,Production
+33,Male,Berlin,Data Scientist,5,Team Lead,1,Python,150000,81000,Full-time,1000+,Production
+31,Male,Berlin,Data Scientist,10,Team Lead,1,Python,115000,115000,Full-time,1000+,Production
+38,Male,Berlin,Data Scientist,6,Team Lead,1,Python,110000,110000,Full-time,1000+,Production
+30,Male,Berlin,Data Scientist,5,Team Lead,1,Python,90000,75000,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,4,Middle,1,Python,60000,60000,Full-time,1000+,Startup
+30,Female,Berlin,Software Engineer,4,Middle,1,Python,56000,55000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,8,Middle,1,Python,74000,72000,Full-time,1000+,Production
+25,Female,Berlin,Software Engineer,2,Middle,1,Python,45000,12000,Full-time,1000+,Startup
+35,Male,Berlin,Software Engineer,2,Middle,2,Python,50000,42000,Full-time,1000+,Production
+28,Female,Berlin,Software Engineer,3,Middle,1,Python,65000,65000,Full-time,1000+,Production
+40,Male,Berlin,Software Engineer,15,Senior,1,Python,80000,65000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,9,Senior,1,Python,90000,80000,Full-time,1000+,Production
+43,Male,Berlin,Software Engineer,20,Senior,1,Python,79000,80000,Full-time,1000+,Production
+38,Male,Berlin,Software Engineer,16,Senior,1,Python,65000,65000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,10,Senior,1,Python,85000,72000,Full-time,1000+,Production
+41,Male,Berlin,Software Engineer,20,Senior,1,Python,93000,88000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,Python,80000,70000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,5,Senior,1,Python,77000,60000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,7,Senior,1,Python,49000,39000,Full-time,1000+,Startup
+29,Male,Berlin,Software Engineer,6,Senior,1,Python,70000,0,Full-time,1000+,Production
+36,Male,Berlin,Software Engineer,12,Senior,1,Python,100000,0,Full-time,1000+,Startup
+41,Male,Berlin,Software Engineer,19,Team Lead,1,Python,95500,94000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,7,Team Lead,1,Python,80000,85000,Full-time,1000+,Production
+31,Female,Berlin,Software Engineer,1,Junior,1,React,57000,54000,Full-time,1000+,E-commerce
+35,Male,Berlin,Software Engineer,6,Middle,1,React,66500,0,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,7,Senior,1,React,72000,63000,Full-time,1000+,Production
+34,Female,Berlin,Data Scientist,6,Senior,1,Ruby,67500,61400,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,5,Middle,1,Ruby,72000,60000,Full-time,1000+,Production
+43,Male,Berlin,Software Engineer,20,Middle,1,Ruby,70000,70000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,4,Middle,1,Ruby,50000,50000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,7,Senior,1,Ruby,72000,66000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,13,Senior,1,Ruby,75000,68000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,10,Senior,1,Ruby,90000,0,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,Ruby,68000,0,Full-time,1000+,Startup
+26,Male,Berlin,Data Scientist,4,Middle,1,Scala,51000,46000,Full-time,1000+,Services
+25,Male,Berlin,Data Scientist,5,Middle,1,Scala,65000,0,Full-time,1000+,Production
+25,Male,Berlin,Data Scientist,3,Senior,1,Scala,65000,58000,Full-time,1000+,Production
+35,Male,Berlin,Data Scientist,10,Team Lead,1,Scala,96000,80000,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,6,Middle,1,Scala,65000,0,Full-time,1000+,Production
+27,Male,Berlin,Software Engineer,5,Senior,1,Scala,78000,70000,Full-time,1000+,Startup
+30,Male,Berlin,Software Engineer,8,Senior,1,Scala,80000,60000,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,15,Senior,1,Scala,85000,100000,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,10,Senior,1,Scala,78000,75000,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,11,Senior,1,Scala,154000,110000,Self-employed,1000+,Startup
+32,Male,Berlin,Software Engineer,11,Senior,1,Scala,72500,70000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,9,Senior,1,Scala,75000,0,Full-time,1000+,Startup
+30,Male,Berlin,Software Engineer,9,Senior,1,Scala,85000,82000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,11,Senior,1,Scala,107000,0,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,9,Senior,1,scala,85000,82000,Full-time,1000+,Startup
+25,Male,Berlin,Data Scientist,4,Middle,2,Spark,75000,0,Full-time,1000+,Startup
+31,Female,Berlin,Data Scientist,4,Middle,1,Spark,50500,49000,Full-time,1000+,Production
+23,Female,Berlin,Data Scientist,1,Junior,1,SQL,36000,36000,Full-time,1000+,Startup
+28,Male,Berlin,Data Scientist,4,Junior,1,SQL,55000,0,Full-time,1000+,Production
+28,Female,Berlin,Data Scientist,6,Senior,1,SQL,70000,0,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Middle,1,Swift,67000,66000,Full-time,1000+,Production
+26,Male,Berlin,Software Engineer,5,Middle,1,Swift,71000,65000,Full-time,1000+,Production
+25,Male,Berlin,Software Engineer,2,Middle,3,Swift,44000,43000,Full-time,1000+,Production
+29,Male,Berlin,Software Engineer,6,Middle,1,Swift,70000,0,Full-time,1000+,Production
+24,Male,Berlin,Software Engineer,3,Middle,2,Swift,70000,0,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,3,Senior,1,Swift,58000,52000,Full-time,1000+,Startup
+38,Male,Berlin,Software Engineer,10,Senior,1,Swift,70000,70000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,10,Senior,1,Swift,80000,64000,Full-time,1000+,Production
+37,Male,Berlin,Software Engineer,17,Senior,1,Swift,77000,71000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,8,Senior,1,Swift,75000,75000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,8,Senior,1,Swift,75000,70000,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,5,Team Lead,1,Swift,70800,0,Full-time,1000+,Services
+36,Male,Berlin,Software Engineer,7,Team Lead,2,Swift,80000,0,Full-time,1000+,Production
+30,Female,Berlin,Data Scientist,5,Middle,1,TypeScript,54000,0,Full-time,1000+,Production
+26,Male,Berlin,Software Engineer,2,Middle,1,TypeScript,58000,0,Full-time,1000+,Services
+30,Male,Berlin,Software Engineer,9,Middle,2,TypeScript,77000,74000,Full-time,1000+,Production
+27,Female,Berlin,Software Engineer,3,Middle,1,Others,60000,0,Full-time,1000+,Production
+24,Female,Berlin,Software Engineer,2,Middle,1,Others,58000,0,Full-time,1000+,Services
+30,Male,Berlin,Software Engineer,7,Middle,1,Others,80000,0,Full-time,1000+,Startup
+24,Male,Berlin,Software Engineer,5,Senior,1,Typescript,65000,65000,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,14,Senior,1,Typescript,70000,0,Full-time,1000+,Startup
+36,Male,Berlin,Software Engineer,10,Senior,1,typescript,88000,80000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,8,Senior,1,Typescript,60000,55000,Full-time,1000+,Production
+30,Male,Berlin,Software Engineer,11,Senior,1,Typescript,74000,72000,Full-time,1000+,Production
+31,Male,Berlin,Software Engineer,8,Senior,1,Typescript,80000,0,Full-time,1000+,Production
+34,Male,Berlin,Software Engineer,13,Senior,1,Others,103000,90000,Full-time,1000+,Production
+38,Female,Berlin,Software Engineer,12,Senior,1,Others,70000,63000,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,Others,90000,80000,Full-time,1000+,Production
+32,Male,Berlin,Software Engineer,10,Team Lead,1,TypeScript,120000,90000,Self-employed,1000+,E-commerce
+51,Male,Berlin,Software Engineer,30,Senior,3,VB,60000,50000,Full-time,1000+,Services
+42,Male,Berlin,Software Engineer,22,Team Lead,1,Yaml,70000,0,Full-time,1000+,Startup
+33,Male,Berlin,Software Engineer,15,Senior,1,Java,150000,0,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,8,Senior,1,JavaScript,68000,0,Full-time,1000+,Production
+28,Male,Berlin,Software Engineer,6,Senior,1,JavaScript,66000,0,Full-time,1000+,Production
+33,Male,Berlin,Software Engineer,10,Senior,1,PHP,75000,0,Full-time,1000+,Production
+41,Male,Berlin,UI/UX Designer,20,Senior,1,PHP,36000,0,Self-employed,1000+,Production
+27,Male,Berlin,Data Scientist,5,Senior,1,Python,70000,0,Self-employed,1000+,Production
+30,Male,Bielefeld,Software Engineer,5,Junior,1,C++,55000,0,Full-time,1000+,Production
+40,Male,Bodensee,Admin,17,Team Lead,3,Linux,81000,81000,Full-time,1000+,Production
+33,Male,Boeblingen,Software Engineer,14,Senior,1,Golang,70000,0,Full-time,1000,Production
+24,Male,Boeblingen,Software Engineer,1,Junior,1,Java,48000,48000,Full-time,1000+,Production
+31,Male,Boeblingen,Data Scientist,6,Senior,1,Python,53000,53000,Full-time,1000+,Services
+36,Male,Bonn,Software Engineer,15,Junior,2,Jenkins,52500,0,Full-time,1000+,Production
+29,Male,Bonn,Software Engineer,5,Middle,1,Objective-C,55000,55000,Full-time,1000+,Production
+29,Male,Bonn,Data Scientist,2,Middle,1,Python,55200,50000,Full-time,1000+,Production
+40,Male,Braunschweig ,Admin,11,Senior,3,SAP,75000,72000,Full-time,1000+,Fintech
+33,Female,Brunswick,Software Engineer,6,Middle,1,C++,58000,53000,Full-time,1000+,Production
+28,Male,Brussels,Software Engineer,3,Middle,1,C++,45000,45000,Full-time,10,Startup
+25,Male,Brussels ,Data Scientist,1,Junior,1,Python,38000,0,Full-time,1000+,Services
+27,Male,Bucharest,Data Scientist,1,Junior,1,JavaScript,11000,0,Self-employed,10,Startup
+25,Female,Cambridge,Software Engineer,4,Middle,2,JavaScript,45000,0,Full-time,1000,Production
+34,Male,City in Russia,Software Engineer,14,Team Lead,1,Haskell,100000,80000,Full-time,100,Production
+38,Male,Cologne,Software Engineer,15,Senior,1,C#,59000,0,Full-time,10,Production
+29,Female,Cologne,Data Scientist,1,Middle,1,Julia,50000,500000000,Full-time,10,Startup
+25,Male,Cologne,Data Scientist,2,Middle,2,Natural Language Programming,51000,0,Full-time,10,Startup
+39,Male,Cologne,Admin,12,Senior,1,PHP,75000,75000,Full-time,10,Startup
+30,Male,Cologne,Data Scientist,5,Middle,1,Python,69000,63000,Full-time,10,Production
+28,Male,Cologne,Data Scientist,8,Senior,1,SQL,60000,0,Full-time,10,Services
+32,Male,Cologne,Software Engineer,10,Middle,1,Bash,55000,0,Full-time,1000,Production
+35,Male,Cologne,Software Engineer,14,Senior,1,C++,72000,70000,Full-time,1000,Production
+28,Male,Cologne,Software Engineer,4,Middle,1,Java,44000,44000,Full-time,1000,Production
+28,Male,Cologne,Software Engineer,5,Middle,1,Java,50000,50000,Full-time,1000,Production
+32,Male,Cologne,Software Engineer,7,Middle,1,Kotlin,60000,70000,Full-time,1000,Production
+38,Male,Cologne,Software Engineer,11,Senior,1,PHP,55000,55000,Full-time,1000,Production
+43,Male,Cologne,Software Engineer,10,Senior,1,PHP,57600,57600,Full-time,1000,Production
+34,Male,Cologne,Admin,14,Team Lead,1,C#,84000,72000,Full-time,1000+,Production
+27,Male,Cologne,Software Engineer,1,Junior,1,C++,45000,45000,Full-time,1000+,Production
+22,Diverse,Cologne,Data Scientist,1,Senior,1,Cobol,159000,98000,Full-time,1000+,Production
+24,Male,Cologne,Data Scientist,1,Junior,1,Python,57600,48000,Full-time,1000+,Services
+32,Female,Cologne,Data Scientist,4,Senior,1,Python,85000,76000,Full-time,1000+,E-commerce
+30,Female,Cologne,Data Scientist,8,Senior,3,Python,85000,83200,Full-time,1000+,Services
+21,Female,Cologne,Software Engineer,2,Middle,1,Others,50000,0,Self-employed,1000+,Production
+32,Male,Copenhagen,Data Scientist,6,Senior,1,Python,92000,90000,Full-time,10,Startup
+29,Male,Cracovia,Software Engineer,2,Middle,1,JavaScript,18700,16000,Full-time,1000+,Production
+30,Male,Cracow,Data Scientist,7,Senior,1,SQL,68500,0,Full-time,100,Services
+40,Male,Cupertino,Software Engineer,20,Team Lead,1,Swift,250000,230000,Full-time,1000+,Production
+35,Male,Düsseldorf,Data Scientist,3,Middle,1,Python,68000,60000,Full-time,100,E-commerce
+32,Male,Düsseldorf,Software Engineer,11,Senior,1,.NET,60000,47000,Full-time,1000+,Services
+29,Male,Düsseldorf,Data Scientist,1,Junior,1,Python,45000,0,Full-time,1000+,Services
+38,Female,Düsseldorf,Data Scientist,14,Middle,1,R,70000,70000,Full-time,1000+,Production
+29,Male,Düsseldorf,Software Engineer,6,Middle,1,TypeScript,55000,0,Full-time,1000+,Production
+39,Male,Düsseldorf ,Admin,12,Senior,1,PHP,65000,58000,Full-time,1000+,Services
+30,Female,Düsseldorf ,Data Scientist,2,Junior,1,R,45000,0,Full-time,1000+,Production
+35,Male,Darmstadt,Data Scientist,4,Senior,1,Python,67000,60000,Full-time,100,Production
+29,Male,Darmstadt,Data Scientist,5,Middle,1,Python,65000,55000,Full-time,1000,Production
+29,Male,Darmstadt,Data Scientist,5,Middle,1,Python,65000,55000,Full-time,1000,Production
+42,Male,Den Haag,Software Engineer,20,Senior,1,.NET,75000,75000,Full-time,1000,Production
+36,Male,Dortmund,Software Engineer,8,Senior,1,Kotlin,83000,81000,Full-time,1000+,Production
+38,Male,Dresden,Software Engineer,10,Team Lead,3,Golang,62000,0,Full-time,100,Production
+23,Male,Dublin,Data Scientist,3,Senior,1,Python,49200,44500,Full-time,1000+,Production
+38,Male,Dublin ,Software Engineer,16,Senior,1,Swift,85000,85000,Full-time,1000,Production
+35,Male,Duesseldorf,Software Engineer,17,Senior,1,Linux,85000,68000,Full-time,1000+,Services
+26,Female,Dusseldorf,Data Scientist,5,Middle,1,ABAP,65000,46000,Full-time,10,Startup
+31,Male,Dusseldorf,Software Engineer,7,Senior,1,C++,50400,50000,Full-time,1000+,Production
+33,Male,Dusseldorf,Data Scientist,2,Team Lead,1,Spark,70000,60000,Full-time,1000+,Production
+35,Male,Dusseldorf ,Admin,5,Senior,1,Others,56000,54000,Full-time,1000,Production
+33,Male,Dusseldorf ,Admin,6,Senior,1,Others,70000,0,Full-time,1000,Production
+33,Male,Dusseldorf ,Admin,6,Senior,1,Others,70000,0,Full-time,1000,Production
+27,Male,Dusseldurf,Software Engineer,2,Middle,1,PHP,50000,0,Full-time,1000,Production
+26,Male,Eindhoven,Data Scientist,3,Middle,1,Python,48000,42000,Full-time,1000,Production
+22,Female,Eindhoven,Software Engineer,2,Junior,1,JavaScript,24000,0,Full-time,1000+,Production
+36,Female,Erlangen,Admin,14,Middle,1,Others,62000,36000,Full-time,1000+,Production
+34,Male,France,Data Scientist,11,Senior,1,Python,80000,0,Full-time,1000+,Services
+33,Male,Frankfurt,Software Engineer,10,Senior,1,.NET,26400,0,Self-employed,10,Startup
+27,Male,Frankfurt,Software Engineer,5,Middle,2,C#,48000,45000,Full-time,10,Services
+36,Male,Frankfurt,Software Engineer,16,Middle,1,.NET,65000,65000,Full-time,100,Services
+35,Female,Frankfurt,Software Engineer,1,Junior,1,ABAP,50000,50000,Full-time,100,Services
+35,Male,Frankfurt,Software Engineer,15,Senior,1,C,63000,63000,Full-time,100,Production
+32,Male,Frankfurt,Software Engineer,7,Senior,2,C,70000,0,Full-time,100,Production
+35,Male,Frankfurt,Software Engineer,4,Middle,1,Java,42000,42000,Full-time,100,Services
+35,Male,Frankfurt,Software Engineer,12,Senior,1,Java,66000,66000,Full-time,100,Services
+24,Male,Frankfurt,Software Engineer,3,Middle,1,JavaScript,44000,44000,Full-time,100,Production
+31,Male,Frankfurt,Data Scientist,6,Senior,1,Python,60000,0,Full-time,100,Services
+26,Male,Frankfurt,Software Engineer,3,Middle,1,Python,48000,0,Full-time,100,Services
+38,Male,Frankfurt,Admin,16,Team Lead,1,.NET,99000,0,Full-time,1000,Fintech
+26,Male,Frankfurt,Software Engineer,7,Senior,1,Java,65000,0,Full-time,1000,Production
+35,Male,Frankfurt,Software Engineer,10,Senior,1,Java,60000,60000,Full-time,1000,Services
+26,Male,Frankfurt,Admin,4,Middle,1,JavaScript,65000,55000,Full-time,1000,Services
+35,Male,Frankfurt,Admin,12,Senior,1,Others,100000,0,Full-time,1000,Fintech
+36,Male,Frankfurt,Data Scientist,9,Senior,1,Others,64000,60000,Full-time,1000,Services
+30,Male,Frankfurt,Data Scientist,3,Middle,1,Python,65000,47000,Full-time,1000,Research Institute
+32,Male,Frankfurt,Software Engineer,10,Senior,1,Python,68500,68500,Full-time,1000,Production
+33,Male,Frankfurt,Software Engineer,10,Senior,1,Python,65000,60000,Full-time,1000,Production
+44,Male,Frankfurt,Software Engineer,10,Senior,2,SAP,75000,73000,Full-time,1000,Production
+30,Female,Frankfurt,Data Scientist,6,Senior,1,Bash,70000,70000,Full-time,1000+,Fintech
+35,Male,Frankfurt,Admin,6,Senior,1,C,90000,88000,Full-time,1000+,Production
+46,Male,Frankfurt,Software Engineer,23,Senior,1,C#,90000,76000,Full-time,1000+,Services
+33,Male,Frankfurt,Software Engineer,8,Senior,1,C#,67000,63500,Full-time,1000+,Production
+28,Male,Frankfurt,Software Engineer,8,Team Lead,1,C#,25000,25000,Full-time,1000+,Startup
+36,Male,Frankfurt,Software Engineer,14,Senior,1,C++,81500,78500,Full-time,1000+,Production
+38,Male,Frankfurt,Data Scientist,6,Senior,1,DC,68000,65000,Full-time,1000+,Production
+22,Male,Frankfurt,Software Engineer,2,Junior,1,Java,45000,37000,Full-time,1000+,Fintech
+33,Male,Frankfurt,Software Engineer,4,Middle,1,Java,50000,0,Full-time,1000+,Services
+25,Female,Frankfurt,Software Engineer,3,Middle,1,Java,53000,48000,Full-time,1000+,Production
+40,Male,Frankfurt,Software Engineer,22,Senior,1,Java,72000,45000,Full-time,1000+,Production
+35,Male,Frankfurt,Software Engineer,6,Senior,1,JavaScript,80000,0,Full-time,1000+,Production
+28,Male,Frankfurt,Software Engineer,7,Senior,1,JavaScript,80000,76000,Full-time,1000+,Startup
+35,Male,Frankfurt,Data Scientist,12,Senior,1,Machine Learning,120000,90000,Full-time,1000+,Production
+27,Male,Frankfurt,Admin,5,Middle,1,Others,73000,65000,Full-time,1000+,E-commerce
+31,Male,Frankfurt,Admin,8,Team Lead,1,Others,110000,0,Self-employed,1000+,Production
+31,Female,Frankfurt,Software Engineer,2,Junior,1,Others,50000,0,Full-time,1000+,Services
+33,Male,Frankfurt,Data Scientist,6,Middle,1,Python,85000,78000,Full-time,1000+,Production
+30,Male,Frankfurt,Data Scientist,5,Middle,1,Python,52500,52500,Full-time,1000+,Startup
+25,Male,Frankfurt,Software Engineer,2,Junior,1,Python,65000,0,Full-time,1000+,Services
+27,Male,Frankfurt,Software Engineer,3,Middle,1,Qlik,52000,0,Full-time,1000+,Production
+28,Male,Frankfurt,Software Engineer,5,Senior,1,Swift,50000,50000,Full-time,1000+,Services
+45,Female,Frankfurt,Software Engineer,6,Senior,1,Typescript,55000,0,Full-time,1000+,Production
+33,Male,Frankfurt,Software Engineer,18,Senior,1,Others,81000,0,Full-time,1000+,Production
+42,Male,Friedrichshafen,Software Engineer,20,Senior,1,C++,70000,0,Full-time,1000,Production
+47,Male,Hamburg,Software Engineer,22,Senior,1,C++,46000,46000,Full-time,10,Production
+31,Male,Hamburg,Data Scientist,9,Middle,1,Python,50000,48000,Self-employed,10,Production
+27,Male,Hamburg,Software Engineer,1,Junior,1,Python,50000,0,Full-time,10,Startup
+33,Male,Hamburg,Software Engineer,12,Senior,1,Java,80000,80000,Self-employed,10,Services
+27,Male,Hamburg,Software Engineer,3,Middle,1,.NET,10001,0,Part-time ,50,Services
+25,Male,Hamburg,Software Engineer,1,Junior,1,C#,43500,0,Full-time,100,Startup
+38,Male,Hamburg,Software Engineer,12,Senior,1,Java,73000,72000,Full-time,100,Production
+36,Male,Hamburg,Software Engineer,10,Senior,2,Java,82000,78000,Full-time,100,Production
+35,Male,Hamburg,Software Engineer,13,Team Lead,2,Scala,95000,90000,Full-time,100,Startup
+30,Male,Hamburg,Software Engineer,6,Middle,1,.NET,60000,0,Full-time,1000,Production
+32,Female,Hamburg,Data Scientist,2,Junior,4,AWS,52500,52500,Full-time,1000,Services
+34,Male,Hamburg,Software Engineer,8,Senior,1,Embedded,67500,0,Full-time,1000,Production
+37,Female,Hamburg,Admin,7,Middle,1,Java,46000,45000,Full-time,1000,Production
+32,Male,Hamburg,Software Engineer,12,Senior,1,Java,66300,65000,Full-time,1000,Production
+32,Male,Hamburg,Software Engineer,14,Team Lead,1,Java,80000,70000,Full-time,1000,Startup
+30,Male,Hamburg,Software Engineer,7,Senior,1,JavaScript,55000,0,Full-time,1000,Production
+32,Male,Hamburg,Admin,7,Senior,1,Others,85000,85000,Full-time,1000,Production
+27,Female,Hamburg,Data Scientist,6,Senior,1,Others,50000,0,Full-time,1000,Production
+32,Male,Hamburg,Data Scientist,4,Middle,4,Python,37500,34000,Full-time,1000,Services
+30,Male,Hamburg,Data Scientist,5,Middle,1,Python,55000,55000,Full-time,1000,Production
+33,Male,Hamburg,Software Engineer,10,Senior,1,Ruby,75000,70000,Full-time,1000,Production
+28,Male,Hamburg,Software Engineer,7,Senior,1,Scala,80000,0,Full-time,1000,Production
+26,Male,Hamburg,Software Engineer,7,Senior,1,TypeScript,72000,0,Full-time,1000,Services
+25,Male,Hamburg,Software Engineer,5,Middle,1,Java,53500,50000,Full-time,1000+,Production
+37,Male,Hamburg,Software Engineer,15,Senior,1,Java,70000,60000,Full-time,1000+,Startup
+33,Male,Hamburg,Software Engineer,11,Senior,1,Java,65000,0,Full-time,1000+,Production
+30,Female,Hamburg,Software Engineer,5,Senior,1,Java,70000,0,Full-time,1000+,Production
+30,Female,Hamburg,Software Engineer,5,Senior,1,Java,70000,0,Full-time,1000+,Production
+25,Male,Hamburg,Data Scientist,2,Middle,1,Python,48000,43200,Full-time,1000+,Production
+36,Male,Hamburg,Data Scientist,2,Middle,1,Python,63000,55000,Full-time,1000+,Production
+25,Male,Hamburg,Data Scientist,2,Middle,1,Python,60000,48000,Full-time,1000+,Production
+31,Male,Hamburg,Data Scientist,6,Middle,1,Python,57000,0,Full-time,1000+,Production
+30,Male,Hamburg,Data Scientist,5,Senior,1,Python,80000,70000,Full-time,1000+,Startup
+42,Male,Hamburg,Data Scientist,2,Senior,1,Python,80000,65000,Full-time,1000+,E-commerce
+31,Male,Hamburg,Data Scientist,3,Team Lead,1,Python,70000,65000,Full-time,1000+,Startup
+39,Male,Hamburg,Data Scientist,10,Senior,1,R,80000,80000,Full-time,1000+,Services
+25,Female,Hamburg,Admin,1,Junior,1,Ruby,12000,12000,working student,1000+,Production
+29,Male,Hamburg,Software Engineer,7,Middle,1,Ruby,60350,58000,Full-time,1000+,Production
+33,Diverse,Hamburg,Software Engineer,1,Middle,1,Scala,130000,0,Full-time,1000+,Production
+33,Male,Hamburg,Software Engineer,10,Senior,1,Others,61000,60000,Full-time,1000+,Production
+30,Male,Hannover,Software Engineer,5,Middle,1,Python,45000,45000,Full-time,10,Startup
+34,Male,Hannover,Software Engineer,12,Senior,1,Others,56000,56000,Full-time,10,Production
+26,Female,Hannover,Data Scientist,2,Middle,2,Tricentis,32000,0,Full-time,1000+,E-commerce
+33,Male,Heidelberg,Software Engineer,11,Senior,1,Python,80000,0,Full-time,1000,Research Institute
+30,Male,Heidelberg,Software Engineer,9,Senior,1,.NET,60000,55000,Full-time,1000+,Research Institute
+30,Male,Heidelberg,Software Engineer,9,Senior,1,.NET,60000,55000,Full-time,1000+,Research Institute
+37,Male,Heidelberg,Software Engineer,15,Senior,1,ABAP,67500,65000,Full-time,1000+,Production
+32,Female,Heidelberg ,Software Engineer,8,Middle,1,Others,60000,0,Full-time,1000,Production
+33,Male,Heilbronn,Admin,7,Team Lead,1,C++,90000,104000,Full-time,1000+,Production
+31,Male,Helsinki,Software Engineer,5,Middle,1,Java,59064,0,Full-time,100,Production
+29,Male,Helsinki,Software Engineer,7,Senior,1,Kotlin,64000,0,Full-time,100,Services
+35,Male,Helsinki,Software Engineer,11,Senior,1,Python,66000,53000,Full-time,1000,Production
+29,Male,Helsinki,Software Engineer,10,Senior,1,TypeScript,60000,0,Full-time,1000,Production
+40,Male,Hildesheim,Software Engineer,16,Senior,1,C++,72000,70000,Full-time,1000+,Production
+34,Female,Hildesheim ,Data Scientist,11,Senior,1,Software Quality Assurance,60000,60000,Full-time,1000+,Production
+35,Male,Ingolstadt,Software Engineer,10,Team Lead,1,Magento,65000,60000,Full-time,1000+,Startup
+56,Male,Ingolstadt,Software Engineer,9,Senior,1,R,75000,0,Full-time,1000+,Production
+34,Male,Ingolstadt ,Software Engineer,3,Junior,1,C++,55000,53000,Full-time,1000+,Services
+32,Male,Innsbruck,Data Scientist,3,Senior,1,Python,62000,62000,Full-time,1000+,Production
+22,Male,Istanbul,Software Engineer,3,Middle,1,PHP,10001,0,Self-employed,10,Startup
+30,Female,Jena,Software Engineer,4,Middle,1,JavaScript,54000,0,Full-time,1000,Research Institute
+38,Male,Karlsruhe,Data Scientist,7,Middle,1,Python,54500,54500,Full-time,1000+,Services
+35,Male,Karlsruhe,Software Engineer,12,Senior,2,.NET,75000,75000,Full-time,1000+,Production
+26,Male,Karlsruhe,Software Engineer,5,Junior,1,Others,55000,52000,Full-time,1000+,Services
+40,Male,Karlsruhe,Admin,20,Team Lead,1,C#,85000,80000,Full-time,1000+,Services
+28,Male,Karlsruhe,Software Engineer,7,Senior,1,Java,66000,66000,Full-time,1000+,Production
+30,Female,Karlsruhe,Admin,8,Middle,1,Others,57760,0,Full-time,1000+,Production
+29,Male,Karlsruhe,Software Engineer,6,Senior,5,PHP,64800,58800,Full-time,1000+,Startup
+33,Male,Karlsruhe ,Software Engineer,8,Team Lead,1,Python,65000,70400,Part-time ,10,Production
+32,Female,Kempten,Software Engineer,10,Middle,1,C#,49000,0,Full-time,100,Production
+30,Male,Kiev,Software Engineer,8,Middle,1,Web Programming,27000,27000,Full-time,100,Production
+38,Male,Koblenz,Admin,20,Senior,1,Others,44000,42000,Full-time,1000+,Fintech
+35,Male,Konstanz,Data Scientist,10,Middle,1,Python,65000,65000,Full-time,100,Production
+29,Male,Konstanz area,Software Engineer,6,Middle,1,Android,53000,53000,Full-time,1000+,Startup
+27,Male,Krakow,Data Scientist,5,Senior,1,Java,35000,35000,Full-time,1000,Production
+44,Male,Kyiv,Data Scientist,15,Senior,1,UML,60000,0,Self-employed,1000,Services
+28,Male,Kyiv,Software Engineer,5,Senior,1,Swift,45000,30000,Full-time,1000+,Production
+33,Male,Labeck,Software Engineer,10,Middle,1,C#,55000,0,Full-time,1000,Production
+34,Male,Leipzig,Software Engineer,14,Senior,1,Android,60000,52000,Full-time,1000,Services
+33,Male,Leipzig,Software Engineer,5,Middle,1,JavaScript,40800,0,Full-time,1000,Production
+26,Male,Lisbon,Software Engineer,4,Middle,1,JavaScript,21000,19000,Full-time,100,Production
+27,Female,Lisbon,Software Engineer,3,Middle,1,Java,17500,16000,Full-time,1000+,Services
+48,Male,London,Data Scientist,23,Senior,1,Services,110000,0,Self-employed,10,Services
+26,Male,London,Software Engineer,3,Middle,3,Networking,37000,0,Full-time,100,Production
+28,Male,London,Software Engineer,8,Senior,1,.NET,75000,0,Full-time,1000,Production
+26,Male,London,Software Engineer,8,Senior,2,TypeScript,105000,85000,Full-time,1000+,Startup
+29,Male,London,Software Engineer,9,Senior,1,Typescript,113000,0,Full-time,1000+,Services
+35,Male,Luttich,Data Scientist,12,Team Lead,1,Python,85000,80000,Full-time,1000+,Production
+26,Male,Münster,Data Scientist,6,Junior,1,Python,48000,0,Full-time,1000+,Production
+48,Male,Madrid,Software Engineer,15,Senior,1,Python,30000,0,Full-time,10,Startup
+45,Male,Madrid,Data Scientist,2,Senior,1,Python,42000,0,Full-time,1000,Services
+37,Male,Malta,Software Engineer,18,Senior,1,Golang,156000,156000,Self-employed,1000+,Startup
+33,Male,Mannheim,Software Engineer,6,Middle,1,C#,49000,48000,Full-time,100,Startup
+40,Male,Mannheim,Software Engineer,9,Middle,1,C,88000,87000,Full-time,1000+,Production
+28,Female,Mannheim,Software Engineer,4,Junior,1,Others,53000,0,Full-time,1000+,Services
+31,Male,Mannheim ,Software Engineer,10,Senior,1,C,45000,0,Full-time,1000+,Production
+25,Male,Marseille,Data Scientist,1,Junior,1,Python,42000,0,Full-time,10,Startup
+29,Male,Milan,Data Scientist,4,Middle,2,Python,37500,35000,Full-time,1000,Services
+29,Male,Milan,Data Scientist,3,Middle,1,Python,32000,0,Full-time,1000+,Startup
+54,Male,Milano,Admin,31,Senior,1,Networking,110000,110000,Full-time,1000+,Services
+31,Male,Minsk,Software Engineer,6,Senior,2,TypeScript,110000,90000,Full-time,1000+,Production
+28,Male,Moldova,Software Engineer,4,Middle,1,Java,28000,0,Self-employed,100,Startup
+30,Male,Moscow,Software Engineer,2,Middle,1,Python,13000,0,Full-time,100,Startup
+30,Male,Moscow,Software Engineer,5,Middle,1,C,14712,14712,Full-time,1000,Production
+30,Male,Moscow,Software Engineer,2,Junior,1,Elixir,50000,18000,Self-employed,1000,Production
+26,Female,Moscow,Software Engineer,6,Senior,1,JavaScript,33000,27000,Full-time,1000,Production
+24,Male,Moscow,Admin,3,Senior,1,Others,48000,36000,Full-time,1000+,Production
+31,Male,Moscow,Data Scientist,2.5,Team Lead,1,Python,20000,17000,Full-time,1000+,Fintech
+45,Male,Munich,Software Engineer,20,Senior,4,.NET,200000,200000,Self-employed,10,Services
+28,Male,Munich,Software Engineer,5,Senior,1,C++,67000,44000,Self-employed,10,Startup
+40,Male,Munich,Software Engineer,18,Senior,1,Java,160000,160000,Self-employed,10,Services
+39,Male,Munich,Software Engineer,12,Team Lead,1,PHP,108000,108000,Self-employed,10,Services
+28,Male,Munich,Software Engineer,9,Senior,2,React,60000,0,Full-time,10,Startup
+26,Male,Munich,Data Scientist,5,Senior,1,Spark,180000,190000,Self-employed,10,Services
+37,Male,Munich,Software Engineer,14,Senior,1,Typescript,84000,84000,Full-time,10,Production
+27,Male,Munich,Software Engineer,7,Middle,1,.NET,63000,0,Full-time,100,Services
+34,Male,Munich,Software Engineer,13,Team Lead,1,.NET,72000,60000,Full-time,100,Production
+32,Male,Munich,Software Engineer,7,Senior,1,Android,60000,60000,Full-time,100,Production
+33,Male,Munich,Software Engineer,10,Senior,1,C#,78000,65000,Full-time,100,Production
+44,Male,Munich,Software Engineer,28,Senior,1,C#,78500,78500,Full-time,100,Production
+37,Male,Munich,Software Engineer,15,Senior,1,C#,80000,65000,Full-time,100,Services
+56,Male,Munich,Software Engineer,30,Team Lead,1,C++,110000,90000,Full-time,100,Production
+27,Male,Munich,Software Engineer,4,Senior,1,Frontend,60000,0,Full-time,100,Production
+42,Female,Munich,Software Engineer,12,Senior,1,Java,47500,39000,Part-time ,100,Production
+33,Male,Munich,Software Engineer,13,Senior,1,Java,70000,0,Full-time,100,Production
+33,Male,Munich,Software Engineer,9,Team Lead,1,Java,100000,100000,Full-time,100,Production
+31,Male,Munich,Software Engineer,3,Middle,1,JavaScript,63000,50400,Full-time,100,Production
+26,Male,Munich,Software Engineer,5,Senior,1,JavaScript,80000,75000,Full-time,100,Production
+30,Male,Munich,Software Engineer,6,Senior,1,JavaScript,75000,0,Full-time,100,Production
+27,Male,Munich,Software Engineer,5,Senior,1,JavaScript,65000,65000,Full-time,100,Production
+38,Male,Munich,Software Engineer,15,Senior,1,JavaScript,80000,78000,Full-time,100,Services
+26,Male,Munich,Software Engineer,5,Middle,1,Kotlin,65000,0,Full-time,100,Startup
+31,Male,Munich,Software Engineer,6,Middle,1,Node JS,60000,0,Full-time,100,Services
+28,Male,Munich,Admin,6,Middle,1,Others,65000,58000,Full-time,100,Services
+35,Male,Munich,Software Engineer,13,Team Lead,2,Pegasystems,140000,132000,Full-time,100,Services
+28,Male,Munich,Software Engineer,8,Senior,1,PHP,57000,0,Full-time,100,Production
+28,Male,Munich,Software Engineer,8,Senior,1,PHP,57000,0,Full-time,100,Production
+30,Male,Munich,Software Engineer,8,Senior,1,PHP,68000,65000,Full-time,100,Production
+33,Male,Munich,Data Scientist,2,Middle,1,Python,54000,54000,Full-time,100,Production
+38,Male,Munich,Data Scientist,10,Team Lead,1,Python,92000,85000,Full-time,100,Services
+46,Male,Munich,Software Engineer,10,Senior,1,Python,68500,60000,Full-time,100,Startup
+33,Male,Munich,Software Engineer,11,Senior,1,Python,65000,0,Full-time,100,Startup
+35,Male,Munich,Software Engineer,12,Team Lead,1,Python,100000,85000,Full-time,100,Production
+66,Male,Munich,Software Engineer,40,Team Lead,1,ruby,70000,50000,Full-time,100,Production
+31,Male,Munich,Software Engineer,8,Middle,1,Typescript,62000,60000,Full-time,100,Production
+38,Male,Munich,Software Engineer,16,Senior,1,.NET,90000,90000,Full-time,1000,Production
+34,Male,Munich,Software Engineer,14,Senior,1,Blockchain,95000,85000,Full-time,1000,Startup
+28,Male,Munich,Software Engineer,6,Middle,2,C,64000,0,Full-time,1000,Production
+24,Male,Munich,Data Scientist,1,Junior,1,C++,300000,0,Full-time,1000,Startup
+31,Male,Munich,Software Engineer,14,Senior,1,C++,75000,0,Full-time,1000,Services
+32,Male,Munich,Software Engineer,8,Senior,1,C++,65000,0,Full-time,1000,Services
+43,Male,Munich,Admin,21,Senior,1,Java,72000,63000,Full-time,1000,Services
+46,Male,Munich,Data Scientist,13,Senior,1,Java,70000,70000,Full-time,1000,Production
+33,Male,Munich,Data Scientist,10,Senior,1,Java,70000,70000,Full-time,1000,Production
+32,Female,Munich,Data Scientist,8,Senior,1,Java,60000,0,Full-time,1000,Services
+27,Male,Munich,Software Engineer,2,Junior,1,Java,68000,60000,Full-time,1000,Production
+25,Male,Munich,Software Engineer,3,Middle,1,Java,62000,55000,Full-time,1000,Production
+40,Female,Munich,Software Engineer,20,Middle,1,Java,54000,54000,Full-time,1000,Fintech
+34,Male,Munich,Software Engineer,12,Middle,1,Java,72000,72000,Full-time,1000,Production
+28,Male,Munich,Software Engineer,7,Middle,1,Java,63000,63000,Full-time,1000,Production
+36,Male,Munich,Software Engineer,13,Senior,1,Java,90000,80000,Full-time,1000,Production
+44,Male,Munich,Software Engineer,20,Senior,2,Java,95000,95000,Full-time,1000,Production
+26,Male,Munich,Software Engineer,7,Senior,1,Java,78000,61000,Full-time,1000,Production
+25,Male,Munich,Software Engineer,5,Senior,1,Java,75000,0,Full-time,1000,Production
+35,Male,Munich,Software Engineer,13,Senior,1,Java,80000,77000,Full-time,1000,Production
+33,Male,Munich,Software Engineer,10,Senior,1,Java,75000,68000,Full-time,1000,Production
+28,Male,Munich,Software Engineer,6,Senior,1,Java,70000,57000,Full-time,1000,Services
+38,Male,Munich,Software Engineer,12,Senior,1,Java,70000,68000,Full-time,1000,Services
+41,Male,Munich,Software Engineer,21,Senior,1,Java,80000,78000,Full-time,1000,Production
+35,Male,Munich,Software Engineer,14,Senior,1,Java,77000,69300,Full-time,1000,Startup
+49,Male,Munich,Software Engineer,27,Senior,1,Java,57000,57000,Full-time,1000,Services
+34,Male,Munich,Software Engineer,12,Senior,1,Java,74000,69000,Full-time,1000,Production
+33,Male,Munich,Software Engineer,13,Senior,1,Java,70000,64000,Full-time,1000,Startup
+41,Male,Munich,Software Engineer,19,Senior,1,Java,75000,73000,Full-time,1000,Production
+27,Female,Munich,Software Engineer,6,Senior,1,Java,85600,75000,Full-time,1000,Production
+31,Male,Munich,Software Engineer,10,Team Lead,1,Java,70000,0,Full-time,1000,Production
+27,Female,Munich,Software Engineer,2,Middle,1,JavaScript,64000,50000,Full-time,1000,Startup
+36,Female,Munich,Software Engineer,10,Middle,1,JavaScript,48000,40000,Part-time ,1000,Production
+34,Male,Munich,Software Engineer,4,Middle,1,JavaScript,66000,66000,Full-time,1000,Production
+26,Male,Munich,Software Engineer,4,Middle,2,JavaScript,75000,0,Full-time,1000,Startup
+29,Male,Munich,Software Engineer,5,Middle,3,JavaScript,57000,57000,Full-time,1000,Production
+32,Male,Munich,Software Engineer,7,Senior,1,JavaScript,62000,60000,Full-time,1000,Services
+33,Male,Munich,Software Engineer,11,Senior,1,JavaScript,80000,0,Full-time,1000,Production
+34,Male,Munich,Software Engineer,5,Senior,2,JavaScript,54000,54000,Full-time,1000,Production
+33,Male,Munich,Software Engineer,10,Senior,1,JavaScript,100000,90000,Full-time,1000,Startup
+25,Male,Munich,Software Engineer,7,Senior,1,JavaScript,70000,0,Full-time,1000,Services
+28,Female,Munich,Data Scientist,8,Senior,1,Kotlin,75000,64000,Full-time,1000,Production
+28,Male,Munich,Software Engineer,5,Senior,1,Kotlin,72000,56000,Full-time,1000,Production
+33,Male,Munich,Software Engineer,15,Team Lead,1,Kuberenetes,90000,78000,Full-time,1000,Production
+29,Female,Munich,Software Engineer,5,Middle,3,Node JS,67000,65000,Full-time,1000,Production
+39,Male,Munich,Data Scientist,17,Senior,1,Oracle,64000,0,Full-time,1000,Production
+34,Male,Munich,Admin,7,Middle,1,Others,72000,72000,Full-time,1000,Startup
+41,Male,Munich,Admin,19,Senior,1,Others,123600,120000,Full-time,1000,Production
+33,Female,Munich,Data Scientist,6,Senior,1,Others,58000,55000,Full-time,1000,Production
+41,Female,Munich,Data Scientist,12,Senior,1,Others,68000,61500,Full-time,1000,Services
+39,Male,Munich,Admin,15,Team Lead,1,PHP,110000,90000,Full-time,1000,E-commerce
+36,Female,Munich,Software Engineer,5,Middle,1,PHP,60000,0,Full-time,1000,Production
+35,Female,Munich,Software Engineer,4,Middle,1,PHP,51000,47000,Full-time,1000,Fintech
+33,Male,Munich,Software Engineer,12,Middle,1,PHP,56000,0,Full-time,1000,Production
+35,Male,Munich,Software Engineer,11,Senior,1,PHP,65000,65000,Full-time,1000,Production
+37,Male,Munich,Software Engineer,15,Senior,1,PHP,75000,72500,Full-time,1000,Production
+37,Male,Munich,Software Engineer,12,Senior,1,PHP,62000,60000,Full-time,1000,Production
+35,Male,Munich,Software Engineer,16,Team Lead,1,PHP,84000,79000,Full-time,1000,Production
+36,Male,Munich,Software Engineer,14,Middle,1,PowerShell,65000,58040,Full-time,1000,Services
+31,Male,Munich,Admin,10,Team Lead,1,Python,80000,78000,Full-time,1000,Research Institute
+26,Male,Munich,Data Scientist,2,Junior,1,Python,58000,55000,Full-time,1000,Services
+23,Male,Munich,Data Scientist,1,Junior,1,Python,49000,0,Full-time,1000,Production
+26,Male,Munich,Data Scientist,3,Middle,1,Python,65000,52000,Full-time,1000,Production
+29,Male,Munich,Data Scientist,6,Middle,1,Python,68000,0,Full-time,1000,Production
+31,Male,Munich,Data Scientist,5,Middle,1,Python,60000,0,Full-time,1000,Services
+32,Female,Munich,Data Scientist,9,Middle,1,Python,60000,0,Full-time,1000,Production
+34,Male,Munich,Data Scientist,10,Senior,1,Python,85000,62500,Full-time,1000,Services
+31,Male,Munich,Software Engineer,10,Senior,1,Ruby,85000,80000,Full-time,1000,Startup
+32,Male,Munich,Data Scientist,9,Senior,1,Software Quality Assurance,76000,0,Full-time,1000,Production
+40,Male,Munich,Data Scientist,15,Team Lead,1,SQL,90000,84000,Full-time,1000,Production
+32,Male,Munich,Software Engineer,10,Team Lead,1,Swift,75000,75000,Full-time,1000,Production
+30,Male,Munich,Software Engineer,9,Middle,1,TypeScript,66000,64000,Full-time,1000,Production
+46,Male,Munich,Software Engineer,4,Senior,1,Others,82000,78000,Full-time,1000,Production
+30,Male,Munich,Software Engineer,5,Senior,1,VHDL,75000,73000,Full-time,1000,Production
+43,Male,Munich,Admin,18,Team Lead,1,.NET,115000,115000,Full-time,1000+,Production
+28,Male,Munich,Software Engineer,3,Junior,1,.NET,65000,65000,Full-time,1000+,Fintech
+30,Male,Munich,Software Engineer,10,Senior,1,.NET,75000,75000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,9,Senior,1,ABAP,70800,0,Full-time,1000+,Services
+46,Male,Munich,Admin,12,Senior,1,Agile,85000,88000,Full-time,1000+,Production
+25,Female,Munich,Data Scientist,1,Junior,1,AI,57000,0,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,14,Senior,2,Angular,80000,0,Full-time,1000+,Production
+37,Male,Munich,Software Engineer,17,Senior,1,AWS,90000,85000,Full-time,1000+,Services
+36,Male,Munich,UI/UX Designer,15,Senior,1,AWS,79300,73000,Full-time,1000+,Production
+34,Male,Munich,Software Engineer,10,Senior,2,Azure,120000,70000,Full-time,1000+,Services
+37,Male,Munich,Software Engineer,15,Senior,1,C,120000,120000,Full-time,1000+,Production
+24,Male,Munich,Software Engineer,5,Middle,1,C++,79000,77000,Full-time,1000+,Production
+31,Male,Munich,Software Engineer,9,Middle,1,C++,92500,0,Full-time,1000+,Production
+30,Male,Munich,Software Engineer,7,Senior,1,C++,100000,97000,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,8,Senior,1,C++,73000,59000,Full-time,1000+,Production
+35,Male,Munich,Software Engineer,14,Senior,1,C++,98000,90000,Full-time,1000+,Production
+34,Male,Munich,Software Engineer,10,Senior,1,C++,74000,72000,Full-time,1000+,Production
+27,Male,Munich,Software Engineer,8,Senior,1,C++,52000,52000,Full-time,1000+,Production
+30,Male,Munich,Admin,12,Senior,1,Services,150000,0,Full-time,1000+,Production
+36,Male,Munich,Software Engineer,12,Team Lead,1,Services,105000,105000,Full-time,1000+,Production
+30,Male,Munich,Software Engineer,10,Senior,1,DAN,79000,0,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,5,Senior,2,Embedded,61000,58000,Full-time,1000+,Services
+39,Male,Munich,Software Engineer,20,Team Lead,1,Embedded,122000,118000,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,11,Team Lead,4,Frontend,90000,75000,Full-time,1000+,Production
+24,Male,Munich,Software Engineer,3,Junior,1,Golang,77000,0,Full-time,1000+,Services
+30,Male,Munich,Software Engineer,10,Senior,1,Golang,151872,0,Full-time,1000+,Startup
+28,Male,Munich,Software Engineer,5,Senior,1,iOS,57000,70000,Full-time,1000+,Production
+33,Female,Munich,Admin,10,Junior,1,Java,60000,55000,Full-time,1000+,Production
+34,Male,Munich,Admin,17,Team Lead,1,Java,120000,110000,Full-time,1000+,Services
+38,Female,Munich,Data Scientist,6,Middle,1,Java,62000,62000,Full-time,1000+,Production
+33,Male,Munich,Data Scientist,5,Senior,1,Java,60000,0,Full-time,1000+,Production
+31,Female,Munich,Data Scientist,7,Senior,1,Java,68000,58000,Full-time,1000+,Production
+34,Male,Munich,Data Scientist,5,Senior,1,Java,76500,72000,Full-time,1000+,Production
+32,Female,Munich,Data Scientist,8,Senior,1,Java,55000,0,Self-employed,1000+,Production
+40,Male,Munich,Data Scientist,18,Team Lead,1,Java,78000,76000,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,4,Middle,1,Java,56000,56000,Full-time,1000+,Production
+31,Female,Munich,Software Engineer,2,Middle,1,Java,58000,26000,Full-time,1000+,Production
+28,Male,Munich,Software Engineer,5,Middle,1,Java,56000,52000,Full-time,1000+,Startup
+31,Male,Munich,Software Engineer,5,Middle,1,Java,74000,68000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,13,Middle,1,Java,95000,79000,Full-time,1000+,Production
+24,Male,Munich,Software Engineer,3,Middle,2,Java,77600,72000,Full-time,1000+,Production
+36,Male,Munich,Software Engineer,15,Senior,1,Java,55000,55000,Full-time,1000+,Production
+31,Male,Munich,Software Engineer,10,Senior,1,Java,68000,68000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,9,Senior,1,Java,70000,68000,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,8,Senior,1,Java,95000,74000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,10,Senior,1,Java,88000,86000,Full-time,1000+,Production
+38,Male,Munich,Software Engineer,15,Senior,1,Java,70000,70000,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,10,Senior,1,Java,70000,70000,Full-time,1000+,Services
+30,Female,Munich,Software Engineer,8,Senior,1,Java,52000,52000,Full-time,1000+,Services
+33,Female,Munich,Software Engineer,10,Senior,1,Java,47500,47500,Full-time,1000+,Services
+29,Male,Munich,Software Engineer,8,Senior,2,Java,65400,0,Full-time,1000+,Services
+34,Male,Munich,Software Engineer,13,Team Lead,1,Java,105000,70000,Full-time,1000+,Startup
+28,Male,Munich,Software Engineer,5,Middle,1,JavaScript,72000,62000,Full-time,1000+,Production
+30,Male,Munich,Software Engineer,4,Middle,2,JavaScript,55000,0,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,7,Senior,1,JavaScript,80000,72000,Full-time,1000+,Production
+45,Male,Munich,Software Engineer,3,Senior,2,JavaScript,70000,65000,Full-time,1000+,Startup
+30,Female,Munich,Software Engineer,9,Senior,2,JavaScript,60000,51000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,8,Senior,2,JavaScript,65000,0,Full-time,1000+,Production
+34,Male,Munich,Software Engineer,5,Senior,2,JavaScript,73500,70000,Full-time,1000+,Production
+33,Male,Munich,Software Engineer,5,Team Lead,1,JavaScript,70000,0,Full-time,1000+,Startup
+32,Male,Munich,Software Engineer,10,Team Lead,1,JavaScript,80000,0,Full-time,1000+,Startup
+27,Female,Munich,Software Engineer,1,Junior,2,Kotlin,50000,50000,Full-time,1000+,Startup
+30,Male,Munich,Software Engineer,8,Senior,1,Kotlin,66000,0,Full-time,1000+,Production
+41,Male,Munich,Software Engineer,15,Senior,1,Kotlin,99000,99000,Full-time,1000+,Production
+35,Male,Munich,Software Engineer,17,Team Lead,1,Kuberenetes,72000,72500,Full-time,1000+,Services
+26,Female,Munich,Data Scientist,3,Junior,2,Machine Learning,70000,0,Full-time,1000+,Production
+28,Male,Munich,Admin,9,Senior,1,Networking,61200,53300,Full-time,1000+,Services
+38,Male,Munich,Admin,12,Senior,1,Node JS,74000,71000,Full-time,1000+,Production
+24,Male,Munich,Software Engineer,3,Middle,1,Node JS,58000,0,Full-time,1000+,Services
+32,Female,Munich,Admin,2,Junior,1,Others,54000,47000,Full-time,1000+,Services
+25,Female,Munich,Admin,3,Middle,1,Others,62000,0,Full-time,1000+,Production
+41,Male,Munich,Admin,18,Middle,1,Others,72000,60000,Full-time,1000+,Production
+32,Male,Munich,Admin,4,Senior,1,Others,65000,62000,Full-time,1000+,Services
+31,Female,Munich,Data Scientist,14,Middle,1,Others,80000,80000,Full-time,1000+,Production
+45,Male,Munich,Data Scientist,19,Senior,1,Others,90000,88000,Full-time,1000+,Services
+32,Male,Munich,Data Scientist,12,Senior,1,Others,95000,0,Full-time,1000+,Production
+38,Male,Munich,Data Scientist,16,Senior,1,Others,95000,95000,Full-time,1000+,Production
+37,Male,Munich,Software Engineer,13,Team Lead,1,Others,70000,60000,Full-time,1000+,Production
+39,Female,Munich,Software Engineer,11,Team Lead,1,Others,93000,93000,Part-time ,1000+,Production
+30,Male,Munich,Software Engineer,10,Team Lead,1,Others,85000,75000,Full-time,1000+,Production
+34,Male,Munich,UI/UX Designer,11,Senior,1,Others,60000,0,Full-time,1000+,Startup
+33,Male,Munich,Admin,10,Senior,1,PHP,79000,75000,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,8,Middle,1,PHP,75000,66000,Full-time,1000+,Production
+31,Male,Munich,Software Engineer,11,Senior,1,PHP,80000,80000,Full-time,1000+,Production
+32,Male,Munich,Software Engineer,11,Senior,1,PHP,81200,0,Full-time,1000+,Production
+27,Male,Munich,Data Scientist,2,Junior,1,Python,49000,0,Full-time,1000+,Services
+26,Female,Munich,Data Scientist,6,Middle,1,Python,60000,60000,Full-time,1000+,Production
+25,Male,Munich,Data Scientist,1,Middle,1,Python,65000,0,Full-time,1000+,Production
+32,Female,Munich,Data Scientist,10,Middle,1,Python,75000,70000,Full-time,1000+,Startup
+29,Male,Munich,Data Scientist,4,Middle,1,Python,61500,53000,Full-time,1000+,Services
+30,Male,Munich,Data Scientist,2,Middle,1,Python,50000,45000,Full-time,1000+,Startup
+27,Male,Munich,Data Scientist,6,Middle,1,Python,70000,67000,Full-time,1000+,Production
+28,Female,Munich,Data Scientist,6,Middle,1,Python,65000,42000,Full-time,1000+,Production
+31,Male,Munich,Data Scientist,4,Senior,1,Python,100000,86000,Full-time,1000+,Production
+32,Female,Munich,Data Scientist,5,Senior,1,Python,80000,75000,Full-time,1000+,Production
+24,Female,Munich,Software Engineer,1,Junior,2,Python,16320,0,Part-time ,1000+,Startup
+31,Male,Munich,Software Engineer,11,Middle,1,Python,75000,0,Full-time,1000+,Production
+54,Male,Munich,Software Engineer,25,Middle,1,Python,75000,80000,Full-time,1000+,Services
+32,Male,Munich,Software Engineer,7,Senior,1,Python,72000,65000,Full-time,1000+,Startup
+39,Male,Munich,Software Engineer,8,Senior,1,Python,130000,125000,Full-time,1000+,Production
+34,Male,Munich,Software Engineer,12,Team Lead,1,Python,95000,85000,Full-time,1000+,Production
+39,Male,Munich,Admin,5,Middle,2,Qlik,56000,53000,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,4,Middle,1,R,78000,78000,Full-time,1000+,Services
+35,Female,Munich,Admin,2,Junior,1,SAP,46000,0,Full-time,1000+,Services
+32,Male,Munich,Admin,10,Team Lead,1,SAP,130000,125000,Full-time,1000+,Production
+35,Female,Munich,Data Scientist,5,Senior,3,SAS,75000,0,Full-time,1000+,Fintech
+32,Male,Munich,Software Engineer,10,Senior,1,Scala,95000,80000,Full-time,1000+,Startup
+33,Male,Munich,Software Engineer,15,Team Lead,1,Scala,100000,98000,Full-time,1000+,Startup
+29,Male,Munich,Data Scientist,6,Middle,1,SQL,70000,60000,Full-time,1000+,Production
+35,Male,Munich,Software Engineer,15,Senior,1,SQL,100000,60000,Founder,1000+,Services
+36,Male,Munich,Software Engineer,15,Senior,2,SQL,68000,68000,Full-time,1000+,Services
+36,Male,Munich,Software Engineer,16,Senior,1,SRE,105000,0,Full-time,1000+,Production
+27,Male,Munich,Data Scientist,5,Senior,1,Swift,58000,58000,Full-time,1000+,Production
+30,Female,Munich,Software Engineer,10,Senior,1,Swift,65000,65000,Full-time,1000+,Production
+40,Male,Munich,Software Engineer,25,Team Lead,1,Swift,85000,72000,Full-time,1000+,Production
+30,Male,Munich,Software Engineer,8,Team Lead,1,Swift,75000,60000,Full-time,1000+,Startup
+30,Male,Munich,Software Engineer,8,Middle,1,Typescript,70200,63000,Full-time,1000+,Production
+29,Male,Munich,Software Engineer,7,Senior,1,TypeScript,80000,0,Full-time,1000+,Startup
+27,Male,Munich,Software Engineer,5,Senior,2,Typescript,71000,66000,Full-time,1000+,Production
+31,Male,Munich,Software Engineer,8,Senior,2,Typescript,79000,67000,Full-time,1000+,Production
+26,Male,Munich,Software Engineer,6,Senior,1,TypeScript,93000,80000,Full-time,1000+,Startup
+47,Male,Munich,Software Engineer,20,Senior,1,Others,75000,0,Full-time,1000+,Production
+40,Male,Munich,Software Engineer,13,Senior,1,Others,77000,0,Full-time,1000+,Production
+31,Male,Munich,Software Engineer,12,Team Lead,2,TypeScript,85000,75000,Full-time,1000+,Startup
+35,Male,Murnau am Staffelsee ,Admin,1,Middle,1,Apotheker,30000,0,Full-time,10,Services
+36,Male,Nuremberg,Software Engineer,1,Junior,1,JavaScript,37500,0,Full-time,10,Startup
+32,Male,Nuremberg,Software Engineer,8,Senior,2,Java,60000,0,Full-time,1000,Services
+27,Male,Nuremberg,Data Scientist,3,Middle,1,Python,55000,0,Full-time,1000,Services
+33,Male,Nuremberg,Software Engineer,9,Senior,2,JavaScript,60000,60000,Full-time,1000+,Services
+23,Male,"NJ, USA",Software Engineer,4,Junior,4,Django,55000,0,Full-time,10,Startup
+31,Male,Nuremberg,Data Scientist,9,Middle,1,Java,60000,57000,Full-time,1000+,Production
+36,Male,Nuremberg,Software Engineer,20,Team Lead,1,Java,74000,74000,Full-time,1000+,Fintech
+33,Male,Nuremberg ,Data Scientist,2,Middle,1,Python,54000,54000,Full-time,1000+,Research Institute
+30,Male,Paderborn,Data Scientist,6,Junior,1,Python,51000,0,Full-time,1000,Production
+31,Male,Paris,Software Engineer,8,Senior,1,Swift,60000,60000,Full-time,1000,Production
+32,Male,Paris,Software Engineer,12,Senior,1,Others,62000,0,Full-time,1000+,Production
+27,Male,Prague,Software Engineer,3,Middle,1,.NET,21120,16560,Full-time,50,Production
+32,Male,Prague,Software Engineer,8,Senior,2,C,36000,26000,Full-time,1000+,Production
+26,Female,Prague,Software Engineer,4,Middle,1,C#,64000,55000,Full-time,1000+,Production
+34,Male,Prague,Software Engineer,14,Team Lead,1,C#,90000,70000,Full-time,1000+,Production
+24,Female,Prague,Software Engineer,3,Middle,1,Java,29000,23000,Full-time,1000+,Startup
+33,Male,Prague,UI/UX Designer,7,Senior,1,Others,42000,39000,Full-time,1000+,Production
+36,Male,Prefer not to say,Data Scientist,6,Senior,1,Python,110000,65000,Full-time,1000,Startup
+36,Male,Regensburg,Software Engineer,10,Middle,1,C#,66000,58000,Full-time,100,Services
+38,Female,Regensburg,Data Scientist,3,Middle,1,Python,65000,60000,Full-time,1000+,Production
+26,Male,"Riga, Latvia",Software Engineer,4,Middle,1,JavaScript,24000,20000,Full-time,1000,Services
+41,Male,Rome,Admin,22,Senior,1,Python,50000,45000,Full-time,100,Production
+28,Male,Rome,Data Scientist,2,Middle,1,Java,36000,28000,Full-time,1000+,Production
+27,Male,Rome,Data Scientist,2,Junior,1,SQL,25300,25300,Full-time,1000+,Services
+30,Male,Rosenheim,Software Engineer,9,Middle,1,Java,63000,57600,Full-time,1000,Production
+36,Male,Rosenheim,Data Scientist,12,Senior,1,Python,89200,0,Full-time,1000+,Services
+26,Male,Saarbrucken,Software Engineer,7,Middle,1,JavaScript,38350,33800,Full-time,1000,Production
+26,Male,Saint-Petersburg,Admin,5,Middle,1,Python,20000,0,Full-time,1000+,Production
+26,Male,Saint-Petersburg,Admin,5,Middle,1,Python,20000,0,Full-time,1000+,Production
+31,Male,Salzburg,Admin,10,Senior,1,Python,115000,81000,Full-time,100,Startup
+30,Male,Samara,Software Engineer,2,Middle,1,PHP,12000,0,Self-employed,1000+,Production
+45,Male,Schleswig-Holstein,Software Engineer,26,Senior,1,C#,93000,93000,Full-time,1000+,Production
+28,Male,Sevilla,Data Scientist,4,Middle,1,Services,30000,30000,Full-time,100,Services
+32,Male,Siegen,Software Engineer,13,Junior,1,C,48000,0,Full-time,100,Production
+39,Male,Siegen,Software Engineer,16,Senior,1,Embedded,62400,60000,Full-time,1000+,Production
+24,Male,Sofia,Data Scientist,5,Senior,1,Python,64000,40000,Full-time,1000+,Startup
+23,Male,Stockholm,Software Engineer,5,Senior,1,JavaScript,45600,0,Full-time,10,Services
+30,Female,Stockholm,Data Scientist,7,Senior,1,Python,48000,45600,Full-time,100,Production
+30,Male,Stockholm,Software Engineer,7,Senior,1,C++,65000,60000,Full-time,1000+,Production
+36,Male,Stockholm,Software Engineer,14,Senior,1,Java,80000,75000,Full-time,1000+,Production
+26,Male,Stockholm,Data Scientist,2,Middle,2,Python,60000,37500,Full-time,1000+,Production
+52,Male,Stuttgart,Software Engineer,12,Team Lead,2,Atlassian,100000,0,Self-employed,10,Services
+44,Male,Stuttgart,Software Engineer,22,Senior,1,Erlang,76000,76000,Full-time,100,Startup
+36,Male,Stuttgart,Software Engineer,16,Team Lead,1,Java,62500,59500,Full-time,100,Production
+36,Male,Stuttgart,Software Engineer,8,Team Lead,1,.NET,72000,0,Full-time,1000,Production
+30,Male,Stuttgart,Software Engineer,8,Middle,1,C++,71000,69000,Full-time,1000,Production
+25,Male,Stuttgart,Software Engineer,4,Middle,1,Java,60000,50000,Full-time,1000,Services
+28,Male,Stuttgart,Software Engineer,5,Middle,1,Java,55000,42000,Full-time,1000,Production
+53,Male,Stuttgart,Software Engineer,15,Senior,2,Java,50000,0,Full-time,1000,Production
+29,Female,Stuttgart,Data Scientist,6,Middle,1,JavaScript,54000,0,Full-time,1000,Production
+33,Male,Stuttgart,Admin,12,Team Lead,1,PHP,70200,70200,Full-time,1000,Services
+39,Male,Stuttgart,Software Engineer,11,Team Lead,1,PHP,75000,75000,Full-time,1000,Production
+40,Male,Stuttgart,Software Engineer,14,Senior,1,C,95000,0,Full-time,1000+,Production
+38,Male,Stuttgart,Software Engineer,15,Senior,1,C#,56400,56400,Full-time,1000+,Production
+46,Male,Stuttgart,Software Engineer,13,Middle,1,C++,70000,68000,Full-time,1000+,Production
+28,Male,Stuttgart,Software Engineer,8,Senior,1,C++,67200,0,Full-time,1000+,Services
+38,Male,Stuttgart,Software Engineer,15,Team Lead,1,Hardware Description Language,83000,0,Full-time,1000+,Production
+24,Female,Stuttgart,Software Engineer,2,Middle,1,iOS,55200,0,Full-time,1000+,Services
+32,Male,Stuttgart,Data Scientist,9,Senior,1,Java,60000,67000,Full-time,1000+,Services
+32,Female,Stuttgart,Software Engineer,2,Junior,1,Java,52000,48000,Full-time,1000+,Production
+45,Male,Stuttgart,Admin,27,Senior,1,Others,90000,90000,Founder,1000+,Services
+69,Male,Stuttgart,Admin,3,Senior,1,Others,70000,0,Full-time,1000+,Services
+35,Male,Stuttgart,Admin,14,Senior,1,Others,80000,53000,Full-time,1000+,Production
+25,Male,Stuttgart,Software Engineer,7,Senior,1,PHP,60000,0,Full-time,1000+,Startup
+25,Male,Stuttgart,Data Scientist,1,Junior,1,Python,58000,0,Full-time,1000+,Services
+31,Female,Stuttgart,Data Scientist,4,Middle,1,R,65000,62000,Full-time,1000+,Production
+43,Male,Stuttgart,Admin,20,Senior,2,SAP,82000,82000,Full-time,1000+,Production
+38,Male,Stuttgart ,Software Engineer,4,Middle,1,PHP,43000,43000,Full-time,10,Services
+29,Male,Stuttgart ,Software Engineer,7,Middle,1,C++,70000,70000,Full-time,100,Production
+35,Female,Stuttgart ,Admin,9,Middle,1,Jira,60000,60000,Full-time,1000,Services
+37,Male,Stuttgart ,Software Engineer,9,Senior,1,Qml,60000,60000,Full-time,1000,Services
+34,Male,Stuttgart ,Software Engineer,6,Senior,1,C++,90000,70000,Full-time,1000+,Production
+39,Female,Stuttgart ,Admin,13,Senior,1,Others,108000,102000,Full-time,1000+,Services
+37,Male,Stuttgart ,Software Engineer,10,Senior,1,C#,70000,0,Full-time,1000+,Production
+29,Male,Tallinn,Software Engineer,7,Senior,1,Android,65000,65000,Full-time,1000,Startup
+34,Male,Tallinn,Software Engineer,12,Middle,1,PHP,54000,0,Full-time,1000,Production
+24,Male,Tallinn,Software Engineer,3,Junior,1,Java,30000,28800,Full-time,1000+,Production
+25,Female,Tampere (Finland),Data Scientist,3,Junior,1,Python,23000,0,Full-time,100,Research Institute
+27,Male,Tuttlingen,Software Engineer,4,Junior,1,C#,46000,43000,Full-time,10,Production
+31,Female,Ulm,Data Scientist,8,Middle,1,Java,45000,39000,Full-time,1000,Production
+30,Male,Utrecht,Data Scientist,2,Middle,1,Python,48000,41000,Full-time,1000+,Production
+34,Male,Vienna,Data Scientist,12,Senior,1,Others,77500,67000,Full-time,1000,Services
+32,Male,Vienna,Admin,10,Team Lead,1,Java,80000,80000,Full-time,1000+,Services
+28,Male,Würzburg,Software Engineer,8,Senior,1,Java,75000,0,Full-time,1000,Production
+37,Male,Walldorf,Data Scientist,15,Team Lead,1,Python,80000,75000,Full-time,1000+,Production
+23,Male,Warsaw,Software Engineer,4,Middle,1,PHP,34000,0,Full-time,10,Production
+22,Male,Warsaw,Software Engineer,3,Middle,1,PHP,27000,0,Full-time,100,Services
+28,Male,warsaw,Data Scientist,3,Middle,1,Python,50000,30000,Self-employed,1000,Production
+28,Male,"Warsaw, Poland",Software Engineer,6,Middle,1,C#,52800,47500,Full-time,100,Services
+28,Male,Wolfsburg,Software Engineer,2,Junior,1,C,48000,0,Full-time,1000,Production
+28,Male,Wolfsburg,Software Engineer,3,Middle,1,Java,42000,42000,Full-time,1000,Services
+31,Male,Wolfsburg,Software Engineer,5,Senior,1,Kotlin,75000,75000,Full-time,1000,Services
+42,Male,Wroclaw,Software Engineer,16,Senior,4,Java,36000,0,Full-time,1000+,Production
+22,Male,Zurich,Software Engineer,2,Junior,1,Python,35000,30000,Intern,10,Startup
+28,Male,Zurich,Software Engineer,6,Middle,1,C++,100000,140000,Full-time,1000+,Production
+36,Male,Zurich,Software Engineer,15,Senior,1,C++,172000,169000,Full-time,1000+,Production
+37,Male,Zurich,Admin,20,Middle,1,Others,130000,125000,Full-time,1000+,Services
+34,Male,Zurich,Software Engineer,7,Senior,1,PHP,108500,90000,Full-time,1000+,Startup
+36,Male,Zurich,Data Scientist,5,Senior,1,Python,106000,0,Full-time,1000+,Production
